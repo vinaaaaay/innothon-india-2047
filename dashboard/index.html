@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>India 2047 Power Terminal</title>
+  <link rel="stylesheet" href="term.css">
+</head>
+<body>
+  <div class="app">
+    <header class="bar">
+      <div class="brand">INDIA 2047 <span>POWER TERMINAL</span></div>
+      <div class="chips" id="chips"></div>
+      <span class="badge" title="Installed capacity and energy consumption are not used anywhere in this analysis">✓ ENERGY GENERATED ONLY</span>
+    </header>
+    <section class="ticker" id="ticker" aria-label="Headline numbers"></section>
+    <main class="main">
+      <aside class="col" id="left" aria-label="Zones and national view"></aside>
+      <section class="col center" id="center" aria-label="Map of India"></section>
+      <aside class="col" id="right" aria-label="Selected region"></aside>
+    </main>
+    <nav class="fbar" aria-label="Detailed analysis">
+      <span class="meta">Hover a region for its numbers · click it for detail ·</span>
+      <span class="meta">Click any <u style="text-decoration-style:dotted">underlined number</u> to trace it to its data ·</span>
+      <span class="meta" id="meta"></span>
+    </nav>
+  </div>
+
+  <div class="scrim" id="scrim"></div>
+  <aside class="drawer" id="drawer" aria-label="Trace of a number">
+    <div class="dhd"><span>TRACE · WHERE THIS NUMBER COMES FROM</span><span class="sp"></span>
+      <button type="button" data-back>← Back</button><button type="button" data-close>Close ✕</button></div>
+    <div class="body"></div>
+  </aside>
+  <div id="tip" role="tooltip"></div>
+
+  <script src="data.js"></script>
+  <script src="lib.js"></script>
+  <script src="model.js"></script>
+  <script src="themes.js"></script>
+  <script src="provenance.js"></script>
+  <script src="term.js"></script>
+</body>
+</html>

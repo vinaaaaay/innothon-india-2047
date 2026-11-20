@@ -1,0 +1,117 @@
+{
+  "base_year": 2025,
+  "target_year": 2047,
+  "base_generation_twh": 2081.6,
+  "base_generation_pc_kwh": 1421.98853955523,
+  "definition": "total electricity generation incl. captive (OWID/Ember/Energy Institute), calendar year",
+  "utility_share_last3y": 0.8862013504246473,
+  "weights": {
+    "india": 0.1569,
+    "ladder": 0.3431,
+    "panel": 0.5
+  },
+  "weight_rule": "inverse hindcast MSE over all years, capped at 0.5",
+  "india_lens": {
+    "elasticity": 0.8447758701698563,
+    "se": 0.016118565496885704,
+    "rho": 0.5541682331585386,
+    "base_year_residual": -0.017070978940385118
+  },
+  "panel_lens": {
+    "ln_income": 2.894892388637753,
+    "ln_income_sq": -0.12927041367403222,
+    "urban_share": 2.643726069556094,
+    "se": [
+      0.6812,
+      0.0351,
+      0.4567
+    ],
+    "n_countries": 152,
+    "income_elasticity_at_10k": 0.5136433687097508,
+    "income_elasticity_at_30k": 0.22960723866274746
+  },
+  "ladder_lens": {
+    "n_countries": 80,
+    "n_windows": 935
+  },
+  "state_convergence": {
+    "beta": -0.0048082698010210485,
+    "se": 0.0065356536403421706,
+    "n_states": 30,
+    "window": [
+      2011,
+      2019
+    ],
+    "p_value": 0.4680328443671327
+  },
+  "assumptions": {
+    "scenarios_gdp_growth_pct": {
+      "Slow": [
+        5.5,
+        4.0
+      ],
+      "Base": [
+        6.5,
+        5.0
+      ],
+      "Viksit Bharat": [
+        8.0,
+        7.0
+      ]
+    },
+    "growth_sd_pts": 0.8,
+    "population_sd": 0.015,
+    "urban_2047_triangle_pct": [
+      41.0,
+      42.2,
+      50.0
+    ],
+    "cycle_sd_log": 0.025,
+    "population_share_trend_decay": 0.97,
+    "n_draws": 4000,
+    "seed": 2047
+  },
+  "weight_sensitivity_2047_twh": {
+    "hindcast_capped (headline)": {
+      "weights": {
+        "india": 0.157,
+        "ladder": 0.343,
+        "panel": 0.5
+      },
+      "p10": 4074.4476555746396,
+      "p50": 4875.807495611696,
+      "p90": 6556.985496703994
+    },
+    "equal": {
+      "weights": {
+        "india": 0.333,
+        "ladder": 0.333,
+        "panel": 0.333
+      },
+      "p10": 4156.467627591898,
+      "p50": 5272.190369474671,
+      "p90": 6883.3881604714625
+    },
+    "hindcast_uncapped": {
+      "weights": {
+        "india": 0.14,
+        "ladder": 0.306,
+        "panel": 0.554
+      },
+      "p10": 4050.6228989201663,
+      "p50": 4801.27407968948,
+      "p90": 6463.977518359031
+    }
+  },
+  "result_2047_twh": {
+    "p10": 4076.096027180356,
+    "p50": 4847.34769535755,
+    "p90": 6547.7507617428055,
+    "mean": 5108.2599837119915
+  },
+  "drivers_2047_median": {
+    "population": 1667082058.4365158,
+    "gdp_pc_ppp": 30179.56331498463,
+    "urban_share_pct": 44.17523096223597
+  }
+}

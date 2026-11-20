@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en" class="term">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>India 2047 Analyst View</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="classic-term.css?v=2">
+</head>
+<body>
+  <div class="wrap">
+    <header class="top">
+      <div>
+        <h1>India 2047 · Analyst view</h1>
+        <p>A forecast of India's generation requirement to 2047 and a state-by-state plan for meeting it from coal, gas, nuclear, hydro, wind and solar.</p>
+      </div>
+      <div class="top-actions">
+        <span class="badge" title="Installed capacity and energy consumption are not used anywhere in this analysis">
+          <svg width="12" height="12" viewBox="0 0 12 12" aria-hidden="true"><path d="M2 6.2l2.6 2.6L10 3.4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          Energy generated only
+        </span>
+        <a class="ghost" href="index.html" style="text-decoration:none;padding:6px 10px;border-radius:8px">← Terminal</a>
+        <button class="ghost" id="theme" type="button" aria-label="Switch between light and dark theme">Theme</button>
+      </div>
+    </header>
+  </div>
+
+  <div class="controls">
+    <div class="wrap" id="controls"></div>
+  </div>
+
+  <main class="wrap">
+    <div class="kpis" id="kpis"></div>
+    <div id="notes"></div>
+    <div class="tabs" id="tabs" role="tablist"></div>
+    <div class="panel on" id="panel" role="tabpanel"></div>
+  </main>
+
+  <footer>
+    <div class="wrap" id="footer"></div>
+  </footer>
+  <div id="tip" role="tooltip"></div>
+
+  <script src="data.js"></script>
+  <script src="lib.js"></script>
+  <script src="model.js"></script>
+  <script src="themes.js"></script>
+  <script src="app.js?v=3"></script>
+</body>
+</html>

@@ -1,0 +1,63 @@
+/* Classic view in the terminal look: dark, monospaced labels, amber headings, fewer words on screen.
+   Loaded after style.css; html.term wins over its light and dark token blocks. */
+html.term:root, html.term:root[data-theme] {
+  color-scheme: dark;
+  --plane: #07090c; --surface: #0d1116; --ink: #e8edf3; --ink2: #a9b4c2; --muted: #6b7889;
+  --grid: #1e2630; --axis: #2a3441; --wash: #141b25; --focus: #ffb000;
+  --s-coal: #8f99a6; --s-gas: #f76b15; --s-nuclear: #c084fc; --s-hydro: #3e8ef7; --s-wind: #2dd4bf; --s-solar: #ffcc33; --s-other: #6b8f5e;
+  --l-india: #3e8ef7; --l-ladder: #f76b15; --l-panel: #2dd4bf; --l-custom: #c084fc;
+  --seq-0: #141b24; --seq-1: #16314a; --seq-2: #1b4569; --seq-3: #215b8a; --seq-4: #2872ab; --seq-5: #3b8bcc; --seq-6: #5ea6e3; --seq-7: #8cc4f2;
+  --div-mid: #2a3441; --div-pos: #3ddc97; --div-neg: #ff6b6b;
+  --good: #3ddc97; --good-text: #3ddc97; --critical: #ff6b6b; --critical-text: #ff6b6b; --warning: #ffb000;
+  --band: rgba(255, 176, 0, 0.14);
+  --mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, Consolas, monospace;
+  --amber: #ffb000;
+}
+html.term body { font-size: 13.5px; }
+
+/* header: one line, like the terminal */
+html.term .top { padding: 10px 0 8px; align-items: center; }
+html.term .top h1 { font-family: var(--mono); font-size: 14px; letter-spacing: 0.06em; color: var(--amber); text-transform: uppercase; }
+html.term .top p, html.term #theme { display: none; }
+html.term .badge { border-radius: 3px; font-family: var(--mono); font-size: 11px; color: var(--good); border-color: #1f5a43; background: transparent; }
+html.term .ghost { border-radius: 3px; font-family: var(--mono); font-size: 12px; }
+
+/* controls and tabs */
+html.term .controls { background: #000; padding: 8px 0; }
+html.term .lab, html.term .slider label span { font-family: var(--mono); font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+html.term .seg { border-radius: 3px; padding: 0; gap: 0; border-color: var(--axis); background: transparent; }
+html.term .seg button { border-radius: 0; font-family: var(--mono); font-size: 11.5px; padding: 4px 9px; border-right: 1px solid var(--axis); }
+html.term .seg button:last-child { border-right: 0; }
+html.term .seg button[aria-pressed="true"] { background: var(--amber); color: #000; font-weight: 600; }
+html.term .tabs button { font-family: var(--mono); font-size: 12px; letter-spacing: 0.03em; }
+html.term .tabs button[aria-selected="true"] { color: var(--amber); border-bottom-color: var(--amber); }
+
+/* KPI tiles: ticker style */
+html.term .kpi { border-radius: 3px; }
+html.term .kpi .k-label { font-family: var(--mono); color: var(--amber); font-size: 10.5px; letter-spacing: 0.08em; }
+html.term .kpi .k-value { font-family: var(--mono); font-weight: 600; letter-spacing: 0; }
+html.term .kpi .k-sub { font-family: var(--mono); font-size: 11px; }
+
+/* cards */
+html.term .card { border-radius: 3px; }
+html.term .card h2 { font-size: 14.5px; }
+html.term .section-title, html.term .refs-head { font-family: var(--mono); color: var(--amber); }
+html.term .mini-toggle { border-radius: 3px; }
+html.term .mini-toggle button { font-family: var(--mono); }
+
+/* ⓘ explain button and the hidden explanation */
+.info { display: inline-flex; align-items: center; justify-content: center; width: 17px; height: 17px; margin-left: 8px; vertical-align: 1px;
+        border: 1px solid var(--axis); border-radius: 50%; background: transparent; color: var(--muted); font: italic 600 11px Georgia, serif; cursor: pointer; padding: 0; }
+.info:hover, .info[aria-expanded="true"] { color: #000; background: var(--amber, #ffb000); border-color: var(--amber, #ffb000); }
+.more { border-left: 2px solid var(--amber, #ffb000); padding: 2px 0 2px 10px; margin: 0 0 10px; }
+.more .sub, .more .foot { margin: 0 0 4px; font-size: 12.5px; color: var(--ink2); }
+.showall { border: 0; background: none; color: var(--amber, #ffb000); font-family: var(--mono, monospace); font-size: 11.5px; cursor: pointer; padding: 4px 0; }
+.showall:hover { text-decoration: underline; }
+[hidden] { display: none !important; }
+
+/* tooltip and footer */
+html.term #tip { background: #000; border-radius: 3px; font-family: var(--mono); font-size: 11.5px; }
+html.term #tip .t-title { color: var(--amber); }
+html.term footer details summary { cursor: pointer; font-family: var(--mono); font-size: 11.5px; color: var(--muted); }
+html.term footer details p { margin-top: 6px; }
+html.term .chart text { font-family: var(--mono); font-size: 10.5px; }

@@ -1,0 +1,10 @@
+table,source,kept,dropped,rows,columns
+ember_monthly,Ember India monthly (CEA),"Category == 'Electricity generation', Subcategory == 'Fuel', Unit == 'GWh'","Category == 'Capacity' (MW), aggregates, emissions",,
+owid_india,Our World in Data energy dataset,"electricity_generation and *_electricity (generation by source, TWh)","all *_consumption, electricity_demand, primary energy and share columns",,
+npp_subreport_1,National Power Portal monthly generation report (CEA),"April-March ACTUAL generation (GWh) for thermal, nuclear, hydro","Monitored Capacity (MW), programme/target, PLF (%)",,
+generation_state_source_month,,,,23421.0,"state, zone, cea_region, date, source, gwh, unit"
+generation_state_source_year,,,,1700.0,"state, zone, cea_region, year, source, gwh"
+generation_zone_source_year,,,,288.0,"zone, year, source, twh"
+generation_national_history,,,,41.0,"year, Bioenergy, Coal, Gas, Hydro, Nuclear, Other, Solar, Wind, Total"
+check_ember_vs_npp,,,,18.0,"fy, fy_end, category, npp_gwh, ember_gwh, diff_pct"
+utility_bridge,,,,6.0,"year, utility_twh, total_twh, utility_share"

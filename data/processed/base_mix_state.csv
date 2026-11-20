@@ -1,0 +1,289 @@
+state,source,base_twh,best_12m_twh,avg_3y_twh,zone,cea_region,base_period
+Andaman and Nicobar,Bioenergy,0.0,0.0,0.0,South,Southern,2024-12 to 2025-11
+Andaman and Nicobar,Coal,0.0,0.0,0.0,South,Southern,2024-12 to 2025-11
+Andaman and Nicobar,Gas,0.0,0.0,0.0,South,Southern,2024-12 to 2025-11
+Andaman and Nicobar,Hydro,0.01469,0.01625,0.013646666666666666,South,Southern,2024-12 to 2025-11
+Andaman and Nicobar,Nuclear,0.0,0.0,0.0,South,Southern,2024-12 to 2025-11
+Andaman and Nicobar,Other,0.37071,0.37506,0.3532866666666667,South,Southern,2024-12 to 2025-11
+Andaman and Nicobar,Solar,0.019219999999999998,0.02811,0.02358333333333333,South,Southern,2024-12 to 2025-11
+Andaman and Nicobar,Wind,0.0,0.0,0.0,South,Southern,2024-12 to 2025-11
+Andhra Pradesh,Bioenergy,0.06046,0.261,0.07726666666666666,South,Southern,2024-12 to 2025-11
+Andhra Pradesh,Coal,72.92517,73.7763,71.14986999999999,South,Southern,2024-12 to 2025-11
+Andhra Pradesh,Gas,0.31149,3.4943700000000004,0.11598,South,Southern,2024-12 to 2025-11
+Andhra Pradesh,Hydro,5.598,5.598,3.5863233333333335,South,Southern,2024-12 to 2025-11
+Andhra Pradesh,Nuclear,0.0,0.0,0.0,South,Southern,2024-12 to 2025-11
+Andhra Pradesh,Other,0.35045000000000004,0.35045000000000004,0.31981666666666664,South,Southern,2024-12 to 2025-11
+Andhra Pradesh,Solar,8.02133,8.3491,8.135046666666666,South,Southern,2024-12 to 2025-11
+Andhra Pradesh,Wind,8.75873,8.78997,8.199626666666665,South,Southern,2024-12 to 2025-11
+Arunachal Pradesh,Bioenergy,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Arunachal Pradesh,Coal,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Arunachal Pradesh,Gas,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Arunachal Pradesh,Hydro,4.312879999999999,4.842779999999999,4.302496666666666,North-East,North-Eastern,2024-12 to 2025-11
+Arunachal Pradesh,Nuclear,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Arunachal Pradesh,Other,0.0,2.9999999999999997e-05,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Arunachal Pradesh,Solar,0.0025399999999999993,0.02228,0.0019833333333333326,North-East,North-Eastern,2024-12 to 2025-11
+Arunachal Pradesh,Wind,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Assam,Bioenergy,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Assam,Coal,4.342890000000001,5.139810000000001,4.77929,North-East,North-Eastern,2024-12 to 2025-11
+Assam,Gas,3.09254,3.58067,3.2833700000000006,North-East,North-Eastern,2024-12 to 2025-11
+Assam,Hydro,1.53701,1.53701,1.0876199999999998,North-East,North-Eastern,2024-12 to 2025-11
+Assam,Nuclear,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Assam,Other,0.00034,0.0008500000000000001,0.00044,North-East,North-Eastern,2024-12 to 2025-11
+Assam,Solar,0.31495999999999996,0.31739,0.30617333333333335,North-East,North-Eastern,2024-12 to 2025-11
+Assam,Wind,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Bihar,Bioenergy,0.09986999999999999,0.26848,0.11432333333333333,East,Eastern,2024-12 to 2025-11
+Bihar,Coal,58.30132,60.75775,58.72226333333333,East,Eastern,2024-12 to 2025-11
+Bihar,Gas,0.0,0.0,0.0,East,Eastern,2024-12 to 2025-11
+Bihar,Hydro,0.01907,0.050980000000000004,0.013203333333333333,East,Eastern,2024-12 to 2025-11
+Bihar,Nuclear,0.0,0.0,0.0,East,Eastern,2024-12 to 2025-11
+Bihar,Other,0.0,0.0,0.0,East,Eastern,2024-12 to 2025-11
+Bihar,Solar,0.32764,0.34258,0.2636466666666667,East,Eastern,2024-12 to 2025-11
+Bihar,Wind,0.0,0.0,0.0,East,Eastern,2024-12 to 2025-11
+Chandigarh,Bioenergy,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Chandigarh,Coal,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Chandigarh,Gas,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Chandigarh,Hydro,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Chandigarh,Nuclear,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Chandigarh,Other,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Chandigarh,Solar,0.007120000000000001,0.015629999999999998,0.010110000000000001,North,Northern,2024-12 to 2025-11
+Chandigarh,Wind,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Chhattisgarh,Bioenergy,1.5525499999999999,1.6038800000000002,1.48529,Central,Western,2024-12 to 2025-11
+Chhattisgarh,Coal,166.30817000000002,166.43138000000002,163.28124,Central,Western,2024-12 to 2025-11
+Chhattisgarh,Gas,0.0,0.0,0.0,Central,Western,2024-12 to 2025-11
+Chhattisgarh,Hydro,0.6362000000000001,0.6362000000000001,0.52695,Central,Western,2024-12 to 2025-11
+Chhattisgarh,Nuclear,0.0,0.0,0.0,Central,Western,2024-12 to 2025-11
+Chhattisgarh,Other,0.0,0.0,0.0,Central,Western,2024-12 to 2025-11
+Chhattisgarh,Solar,1.6543299999999999,1.6543299999999999,1.2813733333333333,Central,Western,2024-12 to 2025-11
+Chhattisgarh,Wind,0.0,0.0,0.0,Central,Western,2024-12 to 2025-11
+Dadra and Nagar Haveli and Daman and Diu,Bioenergy,0.01303,0.013460000000000001,0.011436666666666668,West,Western,2024-12 to 2025-11
+Dadra and Nagar Haveli and Daman and Diu,Coal,0.0,0.0,0.0,West,Western,2024-12 to 2025-11
+Dadra and Nagar Haveli and Daman and Diu,Gas,0.0,0.0,0.0,West,Western,2024-12 to 2025-11
+Dadra and Nagar Haveli and Daman and Diu,Hydro,0.0,0.0,0.0,West,Western,2024-12 to 2025-11
+Dadra and Nagar Haveli and Daman and Diu,Nuclear,0.0,0.0,0.0,West,Western,2024-12 to 2025-11
+Dadra and Nagar Haveli and Daman and Diu,Other,0.0,0.0,0.0,West,Western,2024-12 to 2025-11
+Dadra and Nagar Haveli and Daman and Diu,Solar,0.01931,0.08698,0.016843333333333335,West,Western,2024-12 to 2025-11
+Dadra and Nagar Haveli and Daman and Diu,Wind,0.0,0.0,0.0,West,Western,2024-12 to 2025-11
+Delhi,Bioenergy,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Delhi,Coal,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Delhi,Gas,2.6431199999999997,6.01511,3.5438799999999997,North,Northern,2024-12 to 2025-11
+Delhi,Hydro,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Delhi,Nuclear,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Delhi,Other,0.5069899999999999,0.56265,0.5063833333333333,North,Northern,2024-12 to 2025-11
+Delhi,Solar,0.20652,0.25348,0.2064766666666667,North,Northern,2024-12 to 2025-11
+Delhi,Wind,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Goa,Bioenergy,0.0,0.0,0.0,West,Western,2024-12 to 2025-11
+Goa,Coal,0.0,0.0,0.0,West,Western,2024-12 to 2025-11
+Goa,Gas,0.0,0.0,0.0,West,Western,2024-12 to 2025-11
+Goa,Hydro,0.0,0.0,0.0,West,Western,2024-12 to 2025-11
+Goa,Nuclear,0.0,0.0,0.0,West,Western,2024-12 to 2025-11
+Goa,Other,0.00816,0.00824,0.0077533333333333326,West,Western,2024-12 to 2025-11
+Goa,Solar,0.05712,0.06324,0.05374333333333333,West,Western,2024-12 to 2025-11
+Goa,Wind,0.0,0.0,0.0,West,Western,2024-12 to 2025-11
+Gujarat,Bioenergy,0.14959999999999998,0.14959999999999998,0.06100666666666667,West,Western,2024-12 to 2025-11
+Gujarat,Coal,70.11926,86.99938,73.34459000000001,West,Western,2024-12 to 2025-11
+Gujarat,Gas,5.674210000000001,19.76178,7.443273333333334,West,Western,2024-12 to 2025-11
+Gujarat,Hydro,6.719390000000001,6.719390000000001,5.892886666666667,West,Western,2024-12 to 2025-11
+Gujarat,Nuclear,12.70366,12.88269,9.729603333333333,West,Western,2024-12 to 2025-11
+Gujarat,Other,0.0,0.01877,0.0,West,Western,2024-12 to 2025-11
+Gujarat,Solar,22.57037,22.57037,17.318646666666666,West,Western,2024-12 to 2025-11
+Gujarat,Wind,33.38090999999999,33.38090999999999,27.032466666666664,West,Western,2024-12 to 2025-11
+Haryana,Bioenergy,0.4244,0.55908,0.4235966666666666,North,Northern,2024-12 to 2025-11
+Haryana,Coal,26.141299999999998,32.55097,28.531333333333333,North,Northern,2024-12 to 2025-11
+Haryana,Gas,0.16772,1.01077,0.17345666666666668,North,Northern,2024-12 to 2025-11
+Haryana,Hydro,0.28274,0.34272,0.24685333333333334,North,Northern,2024-12 to 2025-11
+Haryana,Nuclear,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Haryana,Other,0.05367,0.06667000000000001,0.05643,North,Northern,2024-12 to 2025-11
+Haryana,Solar,1.4439600000000001,1.4732600000000002,1.1813999999999998,North,Northern,2024-12 to 2025-11
+Haryana,Wind,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Himachal Pradesh,Bioenergy,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Himachal Pradesh,Coal,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Himachal Pradesh,Gas,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Himachal Pradesh,Hydro,44.74282,44.74282,42.30999,North,Northern,2024-12 to 2025-11
+Himachal Pradesh,Nuclear,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Himachal Pradesh,Other,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Himachal Pradesh,Solar,0.17472,0.17472,0.10398666666666666,North,Northern,2024-12 to 2025-11
+Himachal Pradesh,Wind,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Jammu and Kashmir,Bioenergy,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Jammu and Kashmir,Coal,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Jammu and Kashmir,Gas,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Jammu and Kashmir,Hydro,15.94058,19.23493,16.21422666666667,North,Northern,2024-12 to 2025-11
+Jammu and Kashmir,Nuclear,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Jammu and Kashmir,Other,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Jammu and Kashmir,Solar,0.0,0.01112,0.0,North,Northern,2024-12 to 2025-11
+Jammu and Kashmir,Wind,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Jharkhand,Bioenergy,0.0,0.0,0.0,East,Eastern,2024-12 to 2025-11
+Jharkhand,Coal,37.70796,38.98432999999999,36.746629999999996,East,Eastern,2024-12 to 2025-11
+Jharkhand,Gas,0.0,0.0,0.0,East,Eastern,2024-12 to 2025-11
+Jharkhand,Hydro,0.19784000000000002,0.5639700000000001,0.21396333333333334,East,Eastern,2024-12 to 2025-11
+Jharkhand,Nuclear,0.0,0.0,0.0,East,Eastern,2024-12 to 2025-11
+Jharkhand,Other,0.0,0.0,0.0,East,Eastern,2024-12 to 2025-11
+Jharkhand,Solar,0.01764,0.02045,0.01764,East,Eastern,2024-12 to 2025-11
+Jharkhand,Wind,0.0,0.0,0.0,East,Eastern,2024-12 to 2025-11
+Karnataka,Bioenergy,3.33279,3.90611,2.9423966666666668,South,Southern,2024-12 to 2025-11
+Karnataka,Coal,42.11378,45.974419999999995,42.62576333333334,South,Southern,2024-12 to 2025-11
+Karnataka,Gas,0.50505,0.50505,0.16835,South,Southern,2024-12 to 2025-11
+Karnataka,Hydro,18.89674,19.069100000000002,14.773753333333334,South,Southern,2024-12 to 2025-11
+Karnataka,Nuclear,5.97539,7.80362,7.028333333333333,South,Southern,2024-12 to 2025-11
+Karnataka,Other,0.0,0.0,0.0,South,Southern,2024-12 to 2025-11
+Karnataka,Solar,16.3772,16.45575,15.709856666666667,South,Southern,2024-12 to 2025-11
+Karnataka,Wind,17.341630000000002,17.341630000000002,13.701660000000002,South,Southern,2024-12 to 2025-11
+Kerala,Bioenergy,0.0,0.07933,0.04043,South,Southern,2024-12 to 2025-11
+Kerala,Coal,0.0,0.0,0.0,South,Southern,2024-12 to 2025-11
+Kerala,Gas,0.0,0.10141,0.0,South,Southern,2024-12 to 2025-11
+Kerala,Hydro,9.65739,10.58521,7.7668,South,Southern,2024-12 to 2025-11
+Kerala,Nuclear,0.0,0.0,0.0,South,Southern,2024-12 to 2025-11
+Kerala,Other,0.08454,0.08454,0.04062,South,Southern,2024-12 to 2025-11
+Kerala,Solar,2.0559000000000003,2.0559000000000003,1.5791500000000003,South,Southern,2024-12 to 2025-11
+Kerala,Wind,0.13149,0.26877999999999996,0.15555666666666668,South,Southern,2024-12 to 2025-11
+Ladakh,Bioenergy,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Ladakh,Coal,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Ladakh,Gas,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Ladakh,Hydro,0.44549,0.44549,0.41713333333333336,North,Northern,2024-12 to 2025-11
+Ladakh,Nuclear,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Ladakh,Other,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Ladakh,Solar,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Ladakh,Wind,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Lakshadweep,Bioenergy,0.0,0.0,0.0,South,Southern,2024-12 to 2025-11
+Lakshadweep,Coal,0.06657,0.06694,0.06355333333333334,South,Southern,2024-12 to 2025-11
+Lakshadweep,Gas,0.0,0.0,0.0,South,Southern,2024-12 to 2025-11
+Lakshadweep,Hydro,0.0,0.0,0.0,South,Southern,2024-12 to 2025-11
+Lakshadweep,Nuclear,0.0,0.0,0.0,South,Southern,2024-12 to 2025-11
+Lakshadweep,Other,0.0,0.0,0.0,South,Southern,2024-12 to 2025-11
+Lakshadweep,Solar,0.00011999999999999999,0.0006900000000000001,0.00011999999999999999,South,Southern,2024-12 to 2025-11
+Lakshadweep,Wind,0.0,0.0,0.0,South,Southern,2024-12 to 2025-11
+Madhya Pradesh,Bioenergy,0.17309,0.1991,0.18347999999999998,Central,Western,2024-12 to 2025-11
+Madhya Pradesh,Coal,141.40269,152.19205,143.93846333333335,Central,Western,2024-12 to 2025-11
+Madhya Pradesh,Gas,0.0,0.0,0.0,Central,Western,2024-12 to 2025-11
+Madhya Pradesh,Hydro,8.644549999999999,8.644549999999999,7.867576666666666,Central,Western,2024-12 to 2025-11
+Madhya Pradesh,Nuclear,0.0,0.0,0.0,Central,Western,2024-12 to 2025-11
+Madhya Pradesh,Other,0.053630000000000004,0.06513,0.04555333333333334,Central,Western,2024-12 to 2025-11
+Madhya Pradesh,Solar,7.947370000000001,7.947370000000001,5.764586666666667,Central,Western,2024-12 to 2025-11
+Madhya Pradesh,Wind,5.097120000000001,5.097120000000001,4.829203333333334,Central,Western,2024-12 to 2025-11
+Maharashtra,Bioenergy,3.47667,5.29108,3.651376666666667,West,Western,2024-12 to 2025-11
+Maharashtra,Coal,130.12308000000002,134.60266000000001,131.41179666666667,West,Western,2024-12 to 2025-11
+Maharashtra,Gas,4.45519,8.23409,4.411536666666666,West,Western,2024-12 to 2025-11
+Maharashtra,Hydro,6.52224,7.0956600000000005,6.34289,West,Western,2024-12 to 2025-11
+Maharashtra,Nuclear,7.49799,11.15654,8.228663333333332,West,Western,2024-12 to 2025-11
+Maharashtra,Other,0.06638,0.09035,0.05353666666666666,West,Western,2024-12 to 2025-11
+Maharashtra,Solar,9.31167,9.31167,7.182886666666667,West,Western,2024-12 to 2025-11
+Maharashtra,Wind,8.22743,8.412720000000002,8.051996666666666,West,Western,2024-12 to 2025-11
+Manipur,Bioenergy,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Manipur,Coal,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Manipur,Gas,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Manipur,Hydro,0.68145,0.70637,0.5111766666666667,North-East,North-Eastern,2024-12 to 2025-11
+Manipur,Nuclear,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Manipur,Other,0.0,0.0018599999999999999,0.00062,North-East,North-Eastern,2024-12 to 2025-11
+Manipur,Solar,0.00867,0.0087,0.008196666666666668,North-East,North-Eastern,2024-12 to 2025-11
+Manipur,Wind,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Meghalaya,Bioenergy,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Meghalaya,Coal,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Meghalaya,Gas,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Meghalaya,Hydro,1.03837,1.22885,0.9797800000000001,North-East,North-Eastern,2024-12 to 2025-11
+Meghalaya,Nuclear,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Meghalaya,Other,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Meghalaya,Solar,0.0,0.00047,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Meghalaya,Wind,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Mizoram,Bioenergy,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Mizoram,Coal,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Mizoram,Gas,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Mizoram,Hydro,0.29767,0.32618,0.28058,North-East,North-Eastern,2024-12 to 2025-11
+Mizoram,Nuclear,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Mizoram,Other,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Mizoram,Solar,0.0332,0.03498,0.017113333333333335,North-East,North-Eastern,2024-12 to 2025-11
+Mizoram,Wind,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Nagaland,Bioenergy,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Nagaland,Coal,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Nagaland,Gas,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Nagaland,Hydro,0.32008000000000003,0.32315000000000005,0.29563,North-East,North-Eastern,2024-12 to 2025-11
+Nagaland,Nuclear,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Nagaland,Other,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Nagaland,Solar,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Nagaland,Wind,0.0,0.001,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Odisha,Bioenergy,0.06828000000000001,0.10143,0.07918333333333333,East,Eastern,2024-12 to 2025-11
+Odisha,Coal,68.54702,70.30624,67.36513,East,Eastern,2024-12 to 2025-11
+Odisha,Gas,0.0,0.0,0.0,East,Eastern,2024-12 to 2025-11
+Odisha,Hydro,7.26016,7.643339999999999,6.782956666666666,East,Eastern,2024-12 to 2025-11
+Odisha,Nuclear,0.0,0.0,0.0,East,Eastern,2024-12 to 2025-11
+Odisha,Other,0.0,0.0,0.0,East,Eastern,2024-12 to 2025-11
+Odisha,Solar,0.84518,0.84518,0.7916466666666666,East,Eastern,2024-12 to 2025-11
+Odisha,Wind,0.0,0.08892,0.0,East,Eastern,2024-12 to 2025-11
+Puducherry,Bioenergy,0.0,0.0,0.0,South,Southern,2024-12 to 2025-11
+Puducherry,Coal,0.0,0.0,0.0,South,Southern,2024-12 to 2025-11
+Puducherry,Gas,0.17804999999999999,0.25595,0.20667999999999997,South,Southern,2024-12 to 2025-11
+Puducherry,Hydro,0.0,0.0,0.0,South,Southern,2024-12 to 2025-11
+Puducherry,Nuclear,0.0,0.0,0.0,South,Southern,2024-12 to 2025-11
+Puducherry,Other,0.0,0.0,0.0,South,Southern,2024-12 to 2025-11
+Puducherry,Solar,0.012240000000000001,0.012240000000000001,0.012240000000000001,South,Southern,2024-12 to 2025-11
+Puducherry,Wind,0.0,0.0,0.0,South,Southern,2024-12 to 2025-11
+Punjab,Bioenergy,0.96748,1.0401699999999998,0.9158366666666667,North,Northern,2024-12 to 2025-11
+Punjab,Coal,32.47614,34.53082,33.10189666666667,North,Northern,2024-12 to 2025-11
+Punjab,Gas,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Punjab,Hydro,4.650639999999999,5.94403,5.03437,North,Northern,2024-12 to 2025-11
+Punjab,Nuclear,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Punjab,Other,0.0,0.00037,0.0,North,Northern,2024-12 to 2025-11
+Punjab,Solar,1.38154,3.6429099999999996,2.0353733333333333,North,Northern,2024-12 to 2025-11
+Punjab,Wind,0.0,0.0169,0.0,North,Northern,2024-12 to 2025-11
+Rajasthan,Bioenergy,0.63638,0.63638,0.47275999999999996,West,Northern,2024-12 to 2025-11
+Rajasthan,Coal,58.700849999999996,65.06525,60.407399999999996,West,Northern,2024-12 to 2025-11
+Rajasthan,Gas,0.87251,1.50669,1.0594566666666667,West,Northern,2024-12 to 2025-11
+Rajasthan,Hydro,1.102,1.13676,0.9930166666666668,West,Northern,2024-12 to 2025-11
+Rajasthan,Nuclear,9.331959999999999,9.331959999999999,7.76852,West,Northern,2024-12 to 2025-11
+Rajasthan,Other,0.0,0.0,0.0,West,Northern,2024-12 to 2025-11
+Rajasthan,Solar,56.161629999999995,56.161629999999995,46.32285999999999,West,Northern,2024-12 to 2025-11
+Rajasthan,Wind,7.68401,8.39066,7.439266666666668,West,Northern,2024-12 to 2025-11
+Sikkim,Bioenergy,0.0,0.0,0.0,North-East,Eastern,2024-12 to 2025-11
+Sikkim,Coal,0.0,0.0,0.0,North-East,Eastern,2024-12 to 2025-11
+Sikkim,Gas,0.0,0.0,0.0,North-East,Eastern,2024-12 to 2025-11
+Sikkim,Hydro,2.55974,12.04196,4.73177,North-East,Eastern,2024-12 to 2025-11
+Sikkim,Nuclear,0.0,0.0,0.0,North-East,Eastern,2024-12 to 2025-11
+Sikkim,Other,0.0,0.0,0.0,North-East,Eastern,2024-12 to 2025-11
+Sikkim,Solar,0.0,0.01035,0.0,North-East,Eastern,2024-12 to 2025-11
+Sikkim,Wind,0.0,0.0,0.0,North-East,Eastern,2024-12 to 2025-11
+Tamil Nadu,Bioenergy,0.33513,1.01612,0.61537,South,Southern,2024-12 to 2025-11
+Tamil Nadu,Coal,64.68907999999999,76.05646,70.01036333333333,South,Southern,2024-12 to 2025-11
+Tamil Nadu,Gas,1.2992299999999999,3.01739,1.6533266666666666,South,Southern,2024-12 to 2025-11
+Tamil Nadu,Hydro,6.27945,6.42072,5.083526666666666,South,Southern,2024-12 to 2025-11
+Tamil Nadu,Nuclear,16.58092,19.273109999999996,16.30189,South,Southern,2024-12 to 2025-11
+Tamil Nadu,Other,0.0,0.0,0.0,South,Southern,2024-12 to 2025-11
+Tamil Nadu,Solar,18.14291,18.14291,14.477340000000002,South,Southern,2024-12 to 2025-11
+Tamil Nadu,Wind,23.82159,23.82159,19.172093333333333,South,Southern,2024-12 to 2025-11
+Telangana,Bioenergy,0.08014,0.25902,0.10364666666666666,South,Southern,2024-12 to 2025-11
+Telangana,Coal,55.88061,58.78718,56.02302333333334,South,Southern,2024-12 to 2025-11
+Telangana,Gas,0.0,0.0,0.0,South,Southern,2024-12 to 2025-11
+Telangana,Hydro,6.828060000000001,6.828060000000001,4.4932533333333335,South,Southern,2024-12 to 2025-11
+Telangana,Nuclear,0.0,0.0,0.0,South,Southern,2024-12 to 2025-11
+Telangana,Other,0.26777,0.26777,0.21606666666666668,South,Southern,2024-12 to 2025-11
+Telangana,Solar,6.85704,6.99679,6.886866666666666,South,Southern,2024-12 to 2025-11
+Telangana,Wind,0.30206,0.31017,0.29951666666666665,South,Southern,2024-12 to 2025-11
+Tripura,Bioenergy,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Tripura,Coal,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Tripura,Gas,5.09569,7.17312,5.772113333333333,North-East,North-Eastern,2024-12 to 2025-11
+Tripura,Hydro,0.0,0.02973,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Tripura,Nuclear,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Tripura,Other,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Tripura,Solar,0.00893,0.00893,0.006683333333333333,North-East,North-Eastern,2024-12 to 2025-11
+Tripura,Wind,0.0,0.0,0.0,North-East,North-Eastern,2024-12 to 2025-11
+Uttar Pradesh,Bioenergy,2.52997,3.89494,2.8050699999999997,North,Northern,2024-12 to 2025-11
+Uttar Pradesh,Coal,160.20666,161.89337,156.98272666666665,North,Northern,2024-12 to 2025-11
+Uttar Pradesh,Gas,0.761,2.8801499999999995,1.2180366666666667,North,Northern,2024-12 to 2025-11
+Uttar Pradesh,Hydro,1.87425,1.89316,1.4588966666666667,North,Northern,2024-12 to 2025-11
+Uttar Pradesh,Nuclear,2.6283,3.79127,3.07752,North,Northern,2024-12 to 2025-11
+Uttar Pradesh,Other,0.032299999999999995,0.0971,0.05329666666666666,North,Northern,2024-12 to 2025-11
+Uttar Pradesh,Solar,5.2267399999999995,5.2267399999999995,4.56788,North,Northern,2024-12 to 2025-11
+Uttar Pradesh,Wind,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Uttarakhand,Bioenergy,0.24852000000000002,0.24852000000000002,0.24852000000000002,North,Northern,2024-12 to 2025-11
+Uttarakhand,Coal,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Uttarakhand,Gas,0.47828999999999994,2.0141,0.6415533333333333,North,Northern,2024-12 to 2025-11
+Uttarakhand,Hydro,16.3679,16.3679,15.368436666666666,North,Northern,2024-12 to 2025-11
+Uttarakhand,Nuclear,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Uttarakhand,Other,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+Uttarakhand,Solar,0.33179999999999993,0.35023000000000004,0.33179999999999993,North,Northern,2024-12 to 2025-11
+Uttarakhand,Wind,0.0,0.0,0.0,North,Northern,2024-12 to 2025-11
+West Bengal,Bioenergy,0.0,1.2796500000000002,0.0008300000000000001,East,Eastern,2024-12 to 2025-11
+West Bengal,Coal,89.63753,93.16816,90.62025666666666,East,Eastern,2024-12 to 2025-11
+West Bengal,Gas,0.0,0.0,0.0,East,Eastern,2024-12 to 2025-11
+West Bengal,Hydro,2.91347,3.65739,2.9681866666666665,East,Eastern,2024-12 to 2025-11
+West Bengal,Nuclear,0.0,0.0,0.0,East,Eastern,2024-12 to 2025-11
+West Bengal,Other,1.46522,1.67526,1.5013966666666667,East,Eastern,2024-12 to 2025-11
+West Bengal,Solar,0.4065,0.4065,0.2681433333333333,East,Eastern,2024-12 to 2025-11
+West Bengal,Wind,0.0,0.0,0.0,East,Eastern,2024-12 to 2025-11

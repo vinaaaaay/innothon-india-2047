@@ -1,0 +1,5 @@
+table,rows,columns
+drivers_national,66,"year, population, urban_share, gdp_pc_ppp, gdp_growth_pct, generation_twh, generation_pc_kwh, is_projection"
+panel_countries,5565,"country, year, iso, population, generation_twh, generation_pc_kwh, gdp_pc_ppp, urban_share"
+drivers_state,635,"state, year, population, gsdp_crore, zone, gsdp_reliable"
+generation_zone_source_year,288,"zone, year, source, twh"

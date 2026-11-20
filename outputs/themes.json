@@ -1,0 +1,367 @@
+{
+ "cards": [
+  {
+   "id": "datacentres",
+   "name": "AI and data-centre boom",
+   "short": "Data centres",
+   "story": "India becomes a hub for cloud and AI computing. Data centres cluster around Mumbai, Chennai, Hyderabad, Bengaluru and Noida.",
+   "driver": "Generation for data centres",
+   "unit": "TWh",
+   "today": 15.0,
+   "today_year": 2025,
+   "today_note": "about 15 TWh of generation in 2025 (our estimate)",
+   "range": [
+    15,
+    500
+   ],
+   "step": 1,
+   "default": 250,
+   "conversion": 1.0,
+   "conversion_note": "the driver is already in TWh generated",
+   "in_baseline": 0.15,
+   "midpoint": 2034,
+   "scales_with_economy": false,
+   "states": {
+    "Maharashtra": 0.34,
+    "Tamil Nadu": 0.2,
+    "Telangana": 0.16,
+    "Karnataka": 0.12,
+    "Uttar Pradesh": 0.1,
+    "Delhi": 0.04,
+    "Haryana": 0.04
+   },
+   "signpost": true,
+   "refs": [
+    [
+     "IEA, Energy and AI (2025)",
+     "about 9 TWh in 2024"
+    ],
+    [
+     "S&P Global (2025)",
+     "13 TWh in 2024 rising to 57 TWh by 2030"
+    ],
+    [
+     "Deloitte India (2025)",
+     "40 to 50 TWh more for AI data centres by 2030"
+    ]
+   ],
+   "why_baseline": "Peer countries' history includes some growth in IT and services load, so a small part is already counted."
+  },
+  {
+   "id": "ev",
+   "name": "Clean-air push: electric vehicles",
+   "short": "EVs",
+   "story": "Pollution leads to curbs on petrol and diesel vehicles and strong support for electric two-wheelers, buses, cars and trucks.",
+   "driver": "Share of road vehicle-km driven on electricity",
+   "unit": "%",
+   "today": 1.0,
+   "today_year": 2025,
+   "today_note": "about 1% of road vehicle-km in 2025 (our estimate; sales shares are much higher than fleet shares)",
+   "range": [
+    1,
+    100
+   ],
+   "step": 1,
+   "default": 60,
+   "conversion": 12.3,
+   "conversion_note": "our assumption of generation per percentage point of road vehicle-km at 2047 traffic: about 10.7 TWh at the charger (the order of magnitude of published full-electrification estimates) plus about 15% network losses. Smaller in earlier years because there is less traffic",
+   "in_baseline": 0.0,
+   "midpoint": 2038,
+   "scales_with_economy": true,
+   "states": "population",
+   "signpost": true,
+   "refs": [
+    [
+     "Climate Policy Initiative (2026)",
+     "about 1,070 TWh a year by 2047 if road transport is fully electric"
+    ],
+    [
+     "IEA via Ember",
+     "about 25 TWh of charging in 2030"
+    ],
+    [
+     "Journal study (2023)",
+     "about 295 TWh by 2050 with ambitious policy"
+    ]
+   ],
+   "why_baseline": "None of the countries the baseline learns from electrified road transport while getting richer, so nothing is already counted."
+  },
+  {
+   "id": "hydrogen",
+   "name": "Green hydrogen hub",
+   "short": "Hydrogen",
+   "story": "India makes hydrogen with electrolysers as a feedstock for fertiliser, refining and steel-making, and for export, as the National Green Hydrogen Mission intends.",
+   "driver": "Green hydrogen produced per year",
+   "unit": "Mt",
+   "today": 0.0,
+   "today_year": 2025,
+   "today_note": "close to zero in 2025",
+   "range": [
+    0,
+    30
+   ],
+   "step": 0.5,
+   "default": 10,
+   "conversion": 55,
+   "conversion_note": "55 kWh per kg: electrolyser efficiency (about 50 kWh/kg) plus compression, an engineering figure",
+   "in_baseline": 0.0,
+   "midpoint": 2036,
+   "scales_with_economy": false,
+   "dedicated": true,
+   "states": {
+    "Gujarat": 0.3,
+    "Rajasthan": 0.2,
+    "Tamil Nadu": 0.15,
+    "Odisha": 0.12,
+    "Andhra Pradesh": 0.1,
+    "Karnataka": 0.08,
+    "Maharashtra": 0.05
+   },
+   "signpost": true,
+   "refs": [
+    [
+     "IRADe roadmap",
+     "about 257 TWh for 5 Mt in 2030 (51 TWh per Mt)"
+    ],
+    [
+     "CEEW (2022)",
+     "about 310 TWh for 5 Mt (62 TWh per Mt)"
+    ],
+    [
+     "National Green Hydrogen Mission",
+     "target of 5 Mt a year by 2030"
+    ]
+   ],
+   "why_baseline": "No peer country produced electrolytic hydrogen at scale, so nothing is already counted.",
+   "note": "Green hydrogen only counts as green if it runs on its own solar and wind, so this wedge is served by dedicated plants, not the grid plan. The supply panel shows the extra land it needs."
+  },
+  {
+   "id": "cooling",
+   "name": "Hotter summers",
+   "short": "Cooling",
+   "story": "Heatwaves become longer and more frequent than in the historical record, pushing air-conditioning and fan use beyond what rising incomes alone would bring.",
+   "driver": "Extra generation for cooling beyond the income trend",
+   "unit": "TWh",
+   "today": 0.0,
+   "today_year": 2025,
+   "today_note": "zero by definition: this card is only the extra heat",
+   "range": [
+    0,
+    400
+   ],
+   "step": 5,
+   "default": 150,
+   "conversion": 1.0,
+   "conversion_note": "the driver is already in TWh generated",
+   "in_baseline": 0.0,
+   "midpoint": 2038,
+   "scales_with_economy": false,
+   "states": "population",
+   "signpost": false,
+   "refs": [
+    [
+     "Our assumption",
+     "a stress test; no study isolates warming from income growth"
+    ]
+   ],
+   "why_baseline": "Cooling that comes with higher incomes is already in the baseline; this card is only the extra heat."
+  },
+  {
+   "id": "manufacturing",
+   "name": "Manufacturing push",
+   "short": "Manufacturing",
+   "story": "Make in India succeeds: factories for electronics, machinery, batteries, textiles and chemicals raise manufacturing's share of the economy. (Hydrogen for steel is counted on the hydrogen card.)",
+   "driver": "Manufacturing share of GDP",
+   "unit": "%",
+   "today": 17.0,
+   "today_year": 2025,
+   "today_note": "about 17% of GDP in 2025",
+   "range": [
+    17,
+    30
+   ],
+   "step": 0.5,
+   "default": 25,
+   "conversion": 60.0,
+   "conversion_note": "assumed generation per percentage point of GDP at the 2047 economy's size; smaller in earlier years",
+   "in_baseline": 0.5,
+   "midpoint": 2037,
+   "scales_with_economy": true,
+   "states": {
+    "Gujarat": 0.2,
+    "Maharashtra": 0.18,
+    "Tamil Nadu": 0.16,
+    "Karnataka": 0.1,
+    "Uttar Pradesh": 0.1,
+    "Odisha": 0.08,
+    "Andhra Pradesh": 0.06,
+    "Telangana": 0.06,
+    "Haryana": 0.06
+   },
+   "signpost": true,
+   "refs": [
+    [
+     "Government target",
+     "manufacturing at 25% of GDP"
+    ],
+    [
+     "Our assumption",
+     "about 60 TWh of generation per percentage point by 2047"
+    ]
+   ],
+   "why_baseline": "The development ladder learns from China, Korea and others who industrialised, so about half of a push is already counted."
+  },
+  {
+   "id": "efficiency",
+   "name": "Efficiency drive",
+   "short": "Efficiency",
+   "story": "Tighter appliance, building and motor standards mean the same comfort and output need less generation.",
+   "driver": "Requirement saved",
+   "unit": "%",
+   "today": 0.0,
+   "today_year": 2025,
+   "range": [
+    0,
+    20
+   ],
+   "step": 0.5,
+   "default": 10,
+   "conversion": null,
+   "in_baseline": 0.0,
+   "midpoint": 2036,
+   "states": "population",
+   "signpost": false,
+   "refs": [
+    [
+     "NITI Aayog IESS 2047",
+     "names efficiency among the cheapest levers"
+    ]
+   ],
+   "why_baseline": "The baseline already includes normal efficiency gains; this card is savings beyond them.",
+   "negative": true
+  },
+  {
+   "id": "oilgas",
+   "name": "Domestic oil and gas discovery",
+   "short": "Oil and gas",
+   "story": "A large offshore find, like Brazil's pre-salt fields, gives India its own oil and cheap gas.",
+   "driver": "Size of the find",
+   "unit": "",
+   "today": null,
+   "today_year": null,
+   "levels": [
+    "Moderate",
+    "Major"
+   ],
+   "default": "Major",
+   "gdp_boost_pts": {
+    "Moderate": 0.15,
+    "Major": 0.3
+   },
+   "gdp_boost_years": [
+    2030,
+    2040
+   ],
+   "states": null,
+   "signpost": false,
+   "refs": [
+    [
+     "Our reasoning",
+     "India makes almost no electricity from oil, so a find changes the mix more than the requirement"
+    ]
+   ],
+   "why_baseline": "Not a requirement wedge: it raises GDP growth a little (which the lenses turn into requirement) and makes gas cheaper for the optimiser. The manufacturing card is a structural shift beyond what GDP growth alone brings, so the two do not overlap."
+  }
+ ],
+ "presets": {
+  "Baseline only": {},
+  "Digital India": {
+   "datacentres": {
+    "value": 350,
+    "timing": "early"
+   },
+   "manufacturing": {
+    "value": 24,
+    "timing": "central"
+   }
+  },
+  "Clean-air India": {
+   "ev": {
+    "value": 80,
+    "timing": "early"
+   },
+   "efficiency": {
+    "value": 12,
+    "timing": "central"
+   },
+   "cooling": {
+    "value": 150,
+    "timing": "central"
+   }
+  },
+  "Energy-rich India": {
+   "oilgas": {
+    "value": "Major",
+    "timing": "central"
+   },
+   "manufacturing": {
+    "value": 25,
+    "timing": "central"
+   },
+   "hydrogen": {
+    "value": 5,
+    "timing": "late"
+   }
+  },
+  "Everything at once": {
+   "datacentres": {
+    "value": 250,
+    "timing": "central"
+   },
+   "ev": {
+    "value": 60,
+    "timing": "central"
+   },
+   "hydrogen": {
+    "value": 10,
+    "timing": "central"
+   },
+   "cooling": {
+    "value": 150,
+    "timing": "central"
+   },
+   "manufacturing": {
+    "value": 25,
+    "timing": "central"
+   }
+  }
+ },
+ "steepness": 0.32,
+ "timing": {
+  "early": -5,
+  "central": 0,
+  "late": 5
+ },
+ "size_sd": 0.3,
+ "timing_sd": 2.5,
+ "obs_sd_national": 0.0291,
+ "obs_sd_driver": 0.1,
+ "gas_discovery": {
+  "Gas cost, INR per kWh": [
+   7.5,
+   4.5
+  ],
+  "Gas output cap, multiple of each state's best year": [
+   2.0,
+   5.0
+  ],
+  "Allowance for states with no gas plants, TWh": [
+   5.0,
+   20.0
+  ],
+  "Annual growth allowed on gas build pace": [
+   0.0,
+   0.06
+  ]
+ }
+}

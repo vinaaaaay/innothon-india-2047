@@ -1,0 +1,40 @@
+{
+  "SOLAR_USABLE": {
+    "open": 0.03,
+    "cropland": 0.003,
+    "urban": 0.05
+  },
+  "WIND_USABLE": {
+    "open": 0.05,
+    "cropland": 0.03
+  },
+  "MAX_ELEVATION_M": 4500,
+  "MAX_RUGGEDNESS_M": 250,
+  "SOLAR_SYSTEM_EFFICIENCY": 0.16,
+  "SOLAR_GROUND_COVER": 0.35,
+  "WIND_MIN_SPEED_50M": 5.0,
+  "WIND_REF_SPEED_50M": 5.5,
+  "WIND_REF_DENSITY_W_M2": 2.0,
+  "WIND_DENSITY_CAP": 1.6,
+  "HYDRO_RUNOFF_COEFF": 0.5,
+  "HYDRO_EXPLOIT_QUANTILE": 0.75,
+  "hydro_conversion_ratio_used": 0.24249335087667698,
+  "hydro_calibration_states": [
+    "Arunachal Pradesh",
+    "Himachal Pradesh",
+    "Karnataka",
+    "Punjab",
+    "Sikkim",
+    "Uttarakhand",
+    "Telangana",
+    "Gujarat",
+    "Kerala",
+    "Madhya Pradesh",
+    "Odisha",
+    "Tamil Nadu",
+    "West Bengal",
+    "Andhra Pradesh",
+    "Maharashtra",
+    "Jammu and Kashmir"
+  ]
+}

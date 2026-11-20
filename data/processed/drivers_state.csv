@@ -1,0 +1,636 @@
+state,year,population,gsdp_crore,zone,gsdp_reliable
+Andaman and Nicobar,2006,366589.0,3114.06,South,False
+Andaman and Nicobar,2007,369517.0,3114.06,South,False
+Andaman and Nicobar,2008,372344.0,3114.06,South,False
+Andaman and Nicobar,2009,375072.0,3114.06,South,False
+Andaman and Nicobar,2010,377699.0,3114.06,South,False
+Andaman and Nicobar,2011,380581.0,3100.0,South,True
+Andaman and Nicobar,2012,382605.0,3450.0,South,True
+Andaman and Nicobar,2013,384620.0,3920.0,South,True
+Andaman and Nicobar,2014,386629.0,4240.0,South,True
+Andaman and Nicobar,2015,389639.0,4650.0,South,True
+Andaman and Nicobar,2016,391652.0,5240.0,South,True
+Andaman and Nicobar,2017,393673.0,6020.0,South,True
+Andaman and Nicobar,2018,394698.0,6850.0,South,True
+Andaman and Nicobar,2019,396696.0,7400.0,South,True
+Andaman and Nicobar,2020,398703.0,7020.0,South,False
+Andaman and Nicobar,2021,399716.0,7820.0,South,False
+Andaman and Nicobar,2022,401742.0,8780.0,South,False
+Andaman and Nicobar,2023,402758.0,8761.05,South,False
+Andaman and Nicobar,2024,403767.0,8761.05,South,False
+Andhra Pradesh,2006,47362306.0,216140.0,South,False
+Andhra Pradesh,2007,47842505.0,239372.0,South,False
+Andhra Pradesh,2008,48305877.0,251431.0,South,False
+Andhra Pradesh,2009,48752422.0,265140.0,South,False
+Andhra Pradesh,2010,49182141.0,282786.0,South,False
+Andhra Pradesh,2011,49627190.0,379402.0,South,True
+Andhra Pradesh,2012,49988090.0,380629.0,South,True
+Andhra Pradesh,2013,50348276.0,407115.0,South,True
+Andhra Pradesh,2014,50708495.0,444564.0,South,True
+Andhra Pradesh,2015,51067864.0,498606.0,South,True
+Andhra Pradesh,2016,51428116.0,540212.0,South,True
+Andhra Pradesh,2017,51713527.0,594737.0,South,True
+Andhra Pradesh,2018,51997844.0,626614.0,South,True
+Andhra Pradesh,2019,52282246.0,669783.0,South,True
+Andhra Pradesh,2020,52566634.0,670321.0,South,False
+Andhra Pradesh,2021,52851085.0,728931.0,South,False
+Andhra Pradesh,2022,53037397.0,766700.0,South,False
+Andhra Pradesh,2023,53222720.0,804470.0,South,False
+Andhra Pradesh,2024,53408066.0,802778.75,South,False
+Arunachal Pradesh,2006,1305858.0,2689.0,North-East,False
+Arunachal Pradesh,2007,1321498.0,2860.0,North-East,False
+Arunachal Pradesh,2008,1337065.0,3028.0,North-East,False
+Arunachal Pradesh,2009,1352559.0,3198.0,North-East,False
+Arunachal Pradesh,2010,1367980.0,3368.0,North-East,False
+Arunachal Pradesh,2011,1383727.0,11063.0,North-East,True
+Arunachal Pradesh,2012,1398621.0,11299.0,North-East,True
+Arunachal Pradesh,2013,1413669.0,12339.0,North-East,True
+Arunachal Pradesh,2014,1428691.0,14383.0,North-East,True
+Arunachal Pradesh,2015,1443718.0,14240.0,North-East,True
+Arunachal Pradesh,2016,1458671.0,14894.0,North-East,True
+Arunachal Pradesh,2017,1473787.0,15573.0,North-East,True
+Arunachal Pradesh,2018,1488715.0,16670.0,North-East,True
+Arunachal Pradesh,2019,1503692.0,17946.0,North-East,True
+Arunachal Pradesh,2020,1518750.0,18196.0,North-East,False
+Arunachal Pradesh,2021,1532693.0,19214.0,North-East,False
+Arunachal Pradesh,2022,1547753.0,20042.0,North-East,False
+Arunachal Pradesh,2023,1561713.0,20870.0,North-East,False
+Arunachal Pradesh,2024,1575754.0,20826.859375,North-East,False
+Assam,2006,29083149.0,47502.0,North-East,False
+Assam,2007,29515074.0,50222.0,North-East,False
+Assam,2008,29941800.0,53319.0,North-East,False
+Assam,2009,30363326.0,56702.0,North-East,False
+Assam,2010,30779653.0,59611.0,North-East,False
+Assam,2011,31205576.0,143175.0,North-East,True
+Assam,2012,31597604.0,147342.0,North-East,True
+Assam,2013,31990520.0,154525.0,North-East,True
+Assam,2014,32382541.0,165212.0,North-East,True
+Assam,2015,32775532.0,191109.0,North-East,True
+Assam,2016,33167525.0,202081.0,North-East,True
+Assam,2017,33542455.0,219919.0,North-East,True
+Assam,2018,33917539.0,231040.0,North-East,True
+Assam,2019,34292462.0,251924.0,North-East,True
+Assam,2020,34667531.0,250923.0,North-East,False
+Assam,2021,35042532.0,271041.0,North-East,False
+Assam,2022,35377488.0,284735.0,North-East,False
+Assam,2023,35712028.0,298428.0,North-East,False
+Assam,2024,36046480.0,297780.90625,North-East,False
+Bihar,2006,93685047.0,82394.0,East,False
+Bihar,2007,95827040.0,89620.0,East,False
+Bihar,2008,97944268.0,104491.0,East,False
+Bihar,2009,100036729.0,109420.0,East,False
+Bihar,2010,102104424.0,120469.0,East,False
+Bihar,2011,104099452.0,247144.0,East,True
+Bihar,2012,106115413.0,256851.0,East,True
+Bihar,2013,108130389.0,269650.0,East,True
+Bihar,2014,110145445.0,279482.0,East,True
+Bihar,2015,112161564.0,296488.0,East,True
+Bihar,2016,114176471.0,318797.0,East,True
+Bihar,2017,115957558.0,344028.0,East,True
+Bihar,2018,117739309.0,381383.0,East,True
+Bihar,2019,119520382.0,409645.0,East,True
+Bihar,2020,121302498.0,419883.0,East,False
+Bihar,2021,123083582.0,435629.0,East,False
+Bihar,2022,124919527.0,456228.0,East,False
+Bihar,2023,126756673.0,476827.0,East,False
+Bihar,2024,128592632.0,475828.34375,East,False
+Chandigarh,2013,1088471.0,22105.0,North,True
+Chandigarh,2014,1104480.0,22870.0,North,True
+Chandigarh,2015,1120489.0,24932.0,North,True
+Chandigarh,2016,1136499.0,26917.0,North,True
+Chandigarh,2017,1151507.0,28480.0,North,True
+Chandigarh,2018,1165520.0,29866.0,North,True
+Chandigarh,2019,1179528.0,31545.0,North,True
+Chandigarh,2020,1193534.0,28974.0,North,False
+Chandigarh,2021,1208541.0,33084.0,North,False
+Chandigarh,2022,1219546.0,34468.0,North,False
+Chandigarh,2023,1231551.0,35851.0,North,False
+Chandigarh,2024,1243555.0,35801.57421875,North,False
+Chhattisgarh,2006,23349821.0,45164.0,Central,False
+Chhattisgarh,2007,23797341.0,50451.0,Central,False
+Chhattisgarh,2008,24239195.0,53886.0,Central,False
+Chhattisgarh,2009,24675382.0,60080.0,Central,False
+Chhattisgarh,2010,25105903.0,64441.0,Central,False
+Chhattisgarh,2011,25545198.0,158074.0,Central,True
+Chhattisgarh,2012,25950147.0,165977.0,Central,True
+Chhattisgarh,2013,26356293.0,182579.0,Central,True
+Chhattisgarh,2014,26761170.0,185813.0,Central,True
+Chhattisgarh,2015,27166195.0,190584.0,Central,True
+Chhattisgarh,2016,27571272.0,213705.0,Central,True
+Chhattisgarh,2017,27956194.0,220136.0,Central,True
+Chhattisgarh,2018,28340197.0,237695.0,Central,True
+Chhattisgarh,2019,28724263.0,249875.0,Central,True
+Chhattisgarh,2020,29109292.0,245452.0,Central,False
+Chhattisgarh,2021,29493284.0,264168.0,Central,False
+Chhattisgarh,2022,29836205.0,274927.0,Central,False
+Chhattisgarh,2023,30180262.0,285687.0,Central,False
+Chhattisgarh,2024,30524288.0,285029.34375,Central,False
+Delhi,2009,16050967.0,132692.0,North,False
+Delhi,2010,16421805.0,144443.0,North,False
+Delhi,2011,16787941.0,343798.0,North,True
+Delhi,2012,17165937.0,366628.0,North,True
+Delhi,2013,17543935.0,392908.0,North,True
+Delhi,2014,17920927.0,428355.0,North,True
+Delhi,2015,18298920.0,475623.0,North,True
+Delhi,2016,18676910.0,511765.0,North,True
+Delhi,2017,19055905.0,542015.0,North,True
+Delhi,2018,19434898.0,565327.0,North,True
+Delhi,2019,19813903.0,587316.0,North,True
+Delhi,2020,20192895.0,564669.0,North,False
+Delhi,2021,20570887.0,636903.0,North,False
+Delhi,2022,20964868.0,665823.0,North,False
+Delhi,2023,21358867.0,694744.0,North,False
+Delhi,2024,21751870.0,692922.5625,North,False
+Goa,2006,1398639.0,9923.0,West,False
+Goa,2007,1410996.0,11028.0,West,False
+Goa,2008,1423103.0,12133.0,West,False
+Goa,2009,1434960.0,13238.0,West,False
+Goa,2010,1446567.0,14343.0,West,False
+Goa,2011,1458545.0,42367.0,West,True
+Goa,2012,1468549.0,35850.0,West,True
+Goa,2013,1479550.0,31568.0,West,True
+Goa,2014,1490552.0,40116.0,West,True
+Goa,2015,1500559.0,46091.0,West,True
+Goa,2016,1511533.0,51249.0,West,True
+Goa,2017,1520559.0,52653.0,West,True
+Goa,2018,1530558.0,53063.0,West,True
+Goa,2019,1539554.0,53100.0,West,True
+Goa,2020,1548561.0,53960.0,West,False
+Goa,2021,1558572.0,58513.0,West,False
+Goa,2022,1566563.0,61418.0,West,False
+Goa,2023,1574568.0,64322.0,West,False
+Goa,2024,1582567.0,64177.52734375,West,False
+Gujarat,2006,55481263.0,189436.0,West,False
+Gujarat,2007,56482208.0,213092.0,West,False
+Gujarat,2008,57475959.0,228460.0,West,False
+Gujarat,2009,58462516.0,252528.0,West,False
+Gujarat,2010,59441879.0,272040.0,West,False
+Gujarat,2011,60439692.0,615606.0,West,True
+Gujarat,2012,61382696.0,682650.0,West,True
+Gujarat,2013,62326721.0,734284.0,West,True
+Gujarat,2014,63270622.0,811428.0,West,True
+Gujarat,2015,64213650.0,894465.0,West,True
+Gujarat,2016,65157704.0,981342.0,West,True
+Gujarat,2017,66083712.0,1086570.0,West,True
+Gujarat,2018,67009696.0,1183020.0,West,True
+Gujarat,2019,67935733.0,1268957.0,West,True
+Gujarat,2020,68861713.0,1244258.0,West,False
+Gujarat,2021,69787711.0,1276298.0,West,False
+Gujarat,2022,70647672.0,1318883.0,West,False
+Gujarat,2023,71506680.0,1361467.0,West,False
+Gujarat,2024,72366697.0,1358385.0,West,False
+Haryana,2006,23086277.0,94268.0,North,False
+Haryana,2007,23546370.0,103244.0,North,False
+Haryana,2008,24001385.0,111420.0,North,False
+Haryana,2009,24451323.0,120407.0,North,False
+Haryana,2010,24896182.0,128983.0,North,False
+Haryana,2011,25351462.0,297539.0,North,True
+Haryana,2012,25772506.0,320912.0,North,True
+Haryana,2013,26193433.0,347507.0,North,True
+Haryana,2014,26614464.0,370535.0,North,True
+Haryana,2015,27034504.0,413405.0,North,True
+Haryana,2016,27455494.0,456709.0,North,True
+Haryana,2017,27861512.0,482036.0,North,True
+Haryana,2018,28266508.0,524171.0,North,True
+Haryana,2019,28672496.0,566034.0,North,True
+Haryana,2020,29077505.0,536226.0,North,False
+Haryana,2021,29483502.0,581034.0,North,False
+Haryana,2022,29846518.0,606286.0,North,False
+Haryana,2023,30209554.0,631539.0,North,False
+Haryana,2024,30573527.0,629641.25,North,False
+Himachal Pradesh,2006,6514077.0,22843.0,North,False
+Himachal Pradesh,2007,6587923.0,24800.0,North,False
+Himachal Pradesh,2008,6659558.0,26646.0,North,False
+Himachal Pradesh,2009,6728982.0,28632.0,North,False
+Himachal Pradesh,2010,6796196.0,30534.0,North,False
+Himachal Pradesh,2011,6864602.0,72720.0,North,True
+Himachal Pradesh,2012,6922419.0,77384.0,North,True
+Himachal Pradesh,2013,6981545.0,82847.0,North,True
+Himachal Pradesh,2014,7040471.0,89060.0,North,True
+Himachal Pradesh,2015,7099458.0,96274.0,North,True
+Himachal Pradesh,2016,7157477.0,103055.0,North,True
+Himachal Pradesh,2017,7205582.0,109406.0,North,True
+Himachal Pradesh,2018,7252477.0,116411.0,North,True
+Himachal Pradesh,2019,7299547.0,121168.0,North,True
+Himachal Pradesh,2020,7346551.0,114814.0,North,False
+Himachal Pradesh,2021,7393466.0,120279.0,North,False
+Himachal Pradesh,2022,7430491.0,126744.0,North,False
+Himachal Pradesh,2023,7467437.0,133209.0,North,False
+Himachal Pradesh,2024,7504551.0,132829.5625,North,False
+Jammu and Kashmir,2006,11572779.0,78609.74,North,False
+Jammu and Kashmir,2007,11718343.0,78609.74,North,False
+Jammu and Kashmir,2008,11860634.0,78609.74,North,False
+Jammu and Kashmir,2009,11999655.0,78609.74,North,False
+Jammu and Kashmir,2010,12135404.0,78609.74,North,False
+Jammu and Kashmir,2011,12267013.0,78256.0,North,True
+Jammu and Kashmir,2012,12392989.0,87138.0,North,True
+Jammu and Kashmir,2013,12519041.0,95621.0,North,True
+Jammu and Kashmir,2014,12645057.0,98367.0,North,True
+Jammu and Kashmir,2015,12771015.0,117168.0,North,True
+Jammu and Kashmir,2016,12897023.0,124848.0,North,True
+Jammu and Kashmir,2017,12999005.0,139709.0,North,True
+Jammu and Kashmir,2018,13100987.0,159859.0,North,True
+Jammu and Kashmir,2019,13203047.0,164103.0,North,True
+Jammu and Kashmir,2020,13305032.0,167793.0,North,False
+Jammu and Kashmir,2021,13408055.0,188561.0,North,False
+Jammu and Kashmir,2022,13505050.0,220204.0,North,False
+Jammu and Kashmir,2023,13603029.0,241133.0,North,False
+Jammu and Kashmir,2024,13701069.0,240580.56,North,False
+Jharkhand,2006,30003235.0,48780.0,East,False
+Jharkhand,2007,30610357.0,51794.0,East,False
+Jharkhand,2008,31211209.0,54655.0,East,False
+Jharkhand,2009,31805792.0,60555.0,East,False
+Jharkhand,2010,32394103.0,64698.0,East,False
+Jharkhand,2011,32988134.0,150918.0,East,True
+Jharkhand,2012,33551056.0,163250.0,East,True
+Jharkhand,2013,34113143.0,165816.0,East,True
+Jharkhand,2014,34675133.0,186534.0,East,True
+Jharkhand,2015,35238057.0,174881.0,East,True
+Jharkhand,2016,35800112.0,193174.0,East,True
+Jharkhand,2017,36334090.0,210587.0,East,True
+Jharkhand,2018,36869176.0,229274.0,East,True
+Jharkhand,2019,37403038.0,238395.0,East,True
+Jharkhand,2020,37937209.0,227082.0,East,False
+Jharkhand,2021,38471165.0,242658.0,East,False
+Jharkhand,2022,38969183.0,258234.0,East,False
+Jharkhand,2023,39466197.0,273810.0,East,False
+Jharkhand,2024,39963170.0,273037.71875,East,False
+Karnataka,2006,57434739.0,152794.0,South,False
+Karnataka,2007,58201551.0,171984.0,South,False
+Karnataka,2008,58948027.0,179809.0,South,False
+Karnataka,2009,59674168.0,189773.0,South,False
+Karnataka,2010,60379974.0,203281.0,South,False
+Karnataka,2011,61095297.0,606010.0,South,True
+Karnataka,2012,61722089.0,649673.0,South,True
+Karnataka,2013,62349108.0,711313.0,South,True
+Karnataka,2014,62975146.0,748429.0,South,True
+Karnataka,2015,63602172.0,831330.0,South,True
+Karnataka,2016,64229098.0,941774.0,South,True
+Karnataka,2017,64752162.0,1019708.0,South,True
+Karnataka,2018,65275228.0,1082614.0,South,True
+Karnataka,2019,65798192.0,1149829.0,South,True
+Karnataka,2020,66322284.0,1143873.0,South,False
+Karnataka,2021,66845196.0,1170445.0,South,False
+Karnataka,2022,67268150.0,1197017.0,South,False
+Karnataka,2023,67692150.0,1223588.0,South,False
+Karnataka,2024,68115063.0,1221552.625,South,False
+Kerala,2006,32003564.0,115103.0,South,False
+Kerala,2007,32300799.0,126378.0,South,False
+Kerala,2008,32588651.0,135202.0,South,False
+Kerala,2009,32867120.0,145660.0,South,False
+Kerala,2010,33136208.0,155709.0,South,False
+Kerala,2011,33406061.0,364048.0,South,True
+Kerala,2012,33641051.0,387693.0,South,True
+Kerala,2013,33875038.0,402781.0,South,True
+Kerala,2014,34109031.0,419956.0,South,True
+Kerala,2015,34344028.0,451210.0,South,True
+Kerala,2016,34578021.0,485302.0,South,True
+Kerala,2017,34760981.0,516190.0,South,True
+Kerala,2018,34942988.0,554228.0,South,True
+Kerala,2019,35124972.0,566523.0,South,True
+Kerala,2020,35306961.0,514400.0,South,False
+Kerala,2021,35488980.0,551787.0,South,False
+Kerala,2022,35632960.0,589174.0,South,False
+Kerala,2023,35775941.0,626560.0,South,False
+Kerala,2024,35919969.0,624511.0,South,False
+Lakshadweep,2006,61544.0,270.78,South,False
+Lakshadweep,2007,62231.0,270.78,South,False
+Lakshadweep,2008,62889.0,270.78,South,False
+Lakshadweep,2009,63517.0,270.78,South,False
+Lakshadweep,2010,64115.0,270.78,South,False
+Lakshadweep,2011,64473.0,270.0,South,True
+Lakshadweep,2012,65476.0,290.0,South,True
+Lakshadweep,2013,65469.0,310.0,South,True
+Lakshadweep,2014,66472.0,330.0,South,True
+Lakshadweep,2015,66468.0,360.0,South,True
+Lakshadweep,2016,67471.0,390.0,South,True
+Lakshadweep,2017,67464.0,430.0,South,True
+Lakshadweep,2018,67459.0,470.0,South,True
+Lakshadweep,2019,68464.0,510.0,South,True
+Lakshadweep,2020,68462.0,490.0,South,False
+Lakshadweep,2021,68458.0,540.0,South,False
+Lakshadweep,2022,68454.0,600.0,South,False
+Lakshadweep,2023,69462.0,598.88,South,False
+Lakshadweep,2024,69459.0,598.88,South,False
+Madhya Pradesh,2006,65909683.0,101627.0,Central,False
+Madhya Pradesh,2007,67285926.0,108376.0,Central,False
+Madhya Pradesh,2008,68642234.0,117772.0,Central,False
+Madhya Pradesh,2009,69978608.0,127896.0,Central,False
+Madhya Pradesh,2010,71295048.0,135969.0,Central,False
+Madhya Pradesh,2011,72626809.0,315562.0,Central,True
+Madhya Pradesh,2012,73862651.0,351683.0,Central,True
+Madhya Pradesh,2013,75098904.0,365134.0,Central,True
+Madhya Pradesh,2014,76333796.0,383944.0,Central,True
+Madhya Pradesh,2015,77569857.0,418736.0,Central,True
+Madhya Pradesh,2016,78805728.0,470669.0,Central,True
+Madhya Pradesh,2017,79947667.0,497102.0,Central,True
+Madhya Pradesh,2018,81089876.0,543235.0,Central,True
+Madhya Pradesh,2019,82231597.0,575554.0,Central,True
+Madhya Pradesh,2020,83373826.0,564514.0,Central,False
+Madhya Pradesh,2021,84515948.0,596584.0,Central,False
+Madhya Pradesh,2022,85547868.0,628653.0,Central,False
+Madhya Pradesh,2023,86578810.0,660722.0,Central,False
+Madhya Pradesh,2024,87610397.0,659193.375,Central,False
+Maharashtra,2006,105233932.0,388611.0,West,False
+Maharashtra,2007,106708138.0,427818.0,West,False
+Maharashtra,2008,108153780.0,442320.0,West,False
+Maharashtra,2009,109570856.0,480335.0,West,False
+Maharashtra,2010,110959368.0,507190.0,West,False
+Maharashtra,2011,112374333.0,1280369.0,West,True
+Maharashtra,2012,113645231.0,1357942.0,West,True
+Maharashtra,2013,114915349.0,1451615.0,West,True
+Maharashtra,2014,116186213.0,1543165.0,West,True
+Maharashtra,2015,117456423.0,1654284.0,West,True
+Maharashtra,2016,118727379.0,1807046.0,West,True
+Maharashtra,2017,119869326.0,1888706.0,West,True
+Maharashtra,2018,121011272.0,1972960.0,West,True
+Maharashtra,2019,122153224.0,2043983.0,West,True
+Maharashtra,2020,123295360.0,1889307.0,West,False
+Maharashtra,2021,124437344.0,1931895.0,West,False
+Maharashtra,2022,125411303.0,1974483.0,West,False
+Maharashtra,2023,126385375.0,2017070.0,West,False
+Maharashtra,2024,127360459.0,2011148.0,West,False
+Manipur,2006,2695183.0,4283.0,North-East,False
+Manipur,2007,2727490.0,4573.0,North-East,False
+Manipur,2008,2759644.0,4899.0,North-East,False
+Manipur,2009,2791643.0,5201.0,North-East,False
+Manipur,2010,2823487.0,5509.0,North-East,False
+Manipur,2011,2855794.0,12915.0,North-East,True
+Manipur,2012,2886765.0,12993.0,North-East,True
+Manipur,2013,2917778.0,14115.0,North-East,True
+Manipur,2014,2948779.0,15245.0,North-East,True
+Manipur,2015,2979799.0,16424.0,North-East,True
+Manipur,2016,3011804.0,17082.0,North-East,True
+Manipur,2017,3041832.0,18751.0,North-East,True
+Manipur,2018,3072813.0,18262.0,North-East,True
+Manipur,2019,3102810.0,20126.0,North-East,True
+Manipur,2020,3133766.0,20767.0,North-East,False
+Manipur,2021,3164794.0,21752.0,North-East,False
+Manipur,2022,3193812.0,22676.0,North-East,False
+Manipur,2023,3222799.0,23600.0,North-East,False
+Manipur,2024,3252823.0,23546.046875,North-East,False
+Meghalaya,2006,2799590.0,5508.0,North-East,False
+Meghalaya,2007,2833274.0,5971.0,North-East,False
+Meghalaya,2008,2866786.0,6459.0,North-East,False
+Meghalaya,2009,2900125.0,7406.0,North-East,False
+Meghalaya,2010,2933293.0,8254.0,North-East,False
+Meghalaya,2011,2966889.0,19918.0,North-East,True
+Meghalaya,2012,2998848.0,20354.0,North-East,True
+Meghalaya,2013,3031866.0,20726.0,North-East,True
+Meghalaya,2014,3063844.0,20140.0,North-East,True
+Meghalaya,2015,3095894.0,20638.0,North-East,True
+Meghalaya,2016,3128878.0,21730.0,North-East,True
+Meghalaya,2017,3160908.0,22564.0,North-East,True
+Meghalaya,2018,3191887.0,23719.0,North-East,True
+Meghalaya,2019,3223887.0,25190.0,North-East,True
+Meghalaya,2020,3255863.0,23297.0,North-East,False
+Meghalaya,2021,3287880.0,24364.0,North-East,False
+Meghalaya,2022,3317918.0,25431.0,North-East,False
+Meghalaya,2023,3348854.0,26500.0,North-East,False
+Meghalaya,2024,3378892.0,26408.681640625,North-East,False
+Mizoram,2006,1035100.0,2286.0,North-East,False
+Mizoram,2007,1047622.0,2449.0,North-East,False
+Mizoram,2008,1060076.0,2620.0,North-East,False
+Mizoram,2009,1072460.0,2953.0,North-East,False
+Mizoram,2010,1084777.0,3287.0,North-East,False
+Mizoram,2011,1097206.0,7259.0,North-East,True
+Mizoram,2012,1109208.0,7778.0,North-East,True
+Mizoram,2013,1121199.0,9038.0,North-East,True
+Mizoram,2014,1133185.0,11261.0,North-East,True
+Mizoram,2015,1145192.0,12324.0,North-East,True
+Mizoram,2016,1157202.0,13595.0,North-East,True
+Mizoram,2017,1169190.0,14758.0,North-East,True
+Mizoram,2018,1181196.0,16100.0,North-East,True
+Mizoram,2019,1192187.0,18080.0,North-East,True
+Mizoram,2020,1204198.0,20436.0,North-East,False
+Mizoram,2021,1216184.0,22213.0,North-East,False
+Mizoram,2022,1227202.0,24090.0,North-East,False
+Mizoram,2023,1238188.0,25967.0,North-East,False
+Mizoram,2024,1250181.0,25893.203125,North-East,False
+Nagaland,2006,1867084.0,4850.0,North-East,False
+Nagaland,2007,1889472.0,4850.0,North-East,False
+Nagaland,2008,1911749.0,5263.0,North-East,False
+Nagaland,2009,1933915.0,5676.0,North-East,False
+Nagaland,2010,1955970.0,6089.0,North-East,False
+Nagaland,2011,1978502.0,12177.0,North-East,True
+Nagaland,2012,1999506.0,12868.0,North-East,True
+Nagaland,2013,2021497.0,13793.0,North-East,True
+Nagaland,2014,2042522.0,14399.0,North-East,True
+Nagaland,2015,2064521.0,14660.0,North-East,True
+Nagaland,2016,2085516.0,15650.0,North-East,True
+Nagaland,2017,2107519.0,16440.0,North-East,True
+Nagaland,2018,2128522.0,16868.0,North-East,True
+Nagaland,2019,2149533.0,18154.0,North-East,True
+Nagaland,2020,2170538.0,17772.0,North-East,False
+Nagaland,2021,2191530.0,18940.0,North-East,False
+Nagaland,2022,2212529.0,19605.0,North-East,False
+Nagaland,2023,2232548.0,20271.0,North-East,False
+Nagaland,2024,2252573.0,20233.349609375,North-East,False
+Odisha,2006,39699197.0,70216.0,East,False
+Odisha,2007,40172184.0,78082.0,East,False
+Odisha,2008,40634466.0,83274.0,East,False
+Odisha,2009,41086042.0,90229.0,East,False
+Odisha,2010,41526913.0,96758.0,East,False
+Odisha,2011,41974218.0,230987.0,East,True
+Odisha,2012,42372950.0,243363.0,East,True
+Odisha,2013,42771179.0,265892.0,East,True
+Odisha,2014,43170110.0,270665.0,East,True
+Odisha,2015,43568091.0,292229.0,East,True
+Odisha,2016,43966138.0,337348.0,East,True
+Odisha,2017,44312222.0,361658.0,East,True
+Odisha,2018,44658075.0,386799.0,East,True
+Odisha,2019,45004105.0,410261.0,East,True
+Odisha,2020,45350234.0,388328.0,East,False
+Odisha,2021,45696240.0,427593.0,East,False
+Odisha,2022,45987252.0,466857.0,East,False
+Odisha,2023,46276133.0,506121.0,East,False
+Odisha,2024,46566109.0,504537.03125,East,False
+Puducherry,2006,1111083.0,5864.0,South,False
+Puducherry,2007,1137421.0,7321.0,South,False
+Puducherry,2008,1164393.0,8110.0,South,False
+Puducherry,2009,1192000.0,9059.0,South,False
+Puducherry,2010,1220241.0,10182.0,South,False
+Puducherry,2011,1247953.0,16818.0,South,True
+Puducherry,2012,1278953.0,17310.0,South,True
+Puducherry,2013,1309945.0,19170.0,South,True
+Puducherry,2014,1339944.0,18207.0,South,True
+Puducherry,2015,1370941.0,19060.0,South,True
+Puducherry,2016,1401939.0,20474.0,South,True
+Puducherry,2017,1435936.0,22318.0,South,True
+Puducherry,2018,1469933.0,25984.0,South,True
+Puducherry,2019,1503927.0,26125.0,South,True
+Puducherry,2020,1536922.0,25576.0,South,False
+Puducherry,2021,1570923.0,27382.0,South,False
+Puducherry,2022,1607915.0,28524.0,South,False
+Puducherry,2023,1645912.0,29665.0,South,False
+Puducherry,2024,1682909.0,29579.6484375,South,False
+Punjab,2006,26127649.0,91299.0,North,False
+Punjab,2007,26464511.0,97577.0,North,False
+Punjab,2008,26793156.0,103826.0,North,False
+Punjab,2009,27113584.0,110775.0,North,False
+Punjab,2010,27425795.0,117039.0,North,False
+Punjab,2011,27743338.0,266628.0,North,True
+Punjab,2012,28023343.0,280823.0,North,True
+Punjab,2013,28302317.0,299450.0,North,True
+Punjab,2014,28581358.0,312125.0,North,True
+Punjab,2015,28861351.0,330052.0,North,True
+Punjab,2016,29140298.0,352721.0,North,True
+Punjab,2017,29380312.0,375406.0,North,True
+Punjab,2018,29619321.0,397019.0,North,True
+Punjab,2019,29859333.0,411646.0,North,True
+Punjab,2020,30099332.0,395894.0,North,False
+Punjab,2021,30339348.0,410547.0,North,False
+Punjab,2022,30535410.0,425200.0,North,False
+Punjab,2023,30730349.0,439853.0,North,False
+Punjab,2024,30926357.0,438706.40625,North,False
+Rajasthan,2006,62161867.0,124339.0,West,False
+Rajasthan,2007,63483578.0,135654.0,West,False
+Rajasthan,2008,64778915.0,144568.0,West,False
+Rajasthan,2009,66047876.0,148200.0,West,False
+Rajasthan,2010,67290463.0,158315.0,West,False
+Rajasthan,2011,68548437.0,434837.0,West,True
+Rajasthan,2012,69687322.0,454564.0,West,True
+Rajasthan,2013,70825299.0,486230.0,West,True
+Rajasthan,2014,71963414.0,521509.0,West,True
+Rajasthan,2015,73102258.0,563340.0,West,True
+Rajasthan,2016,74240590.0,596746.0,West,True
+Rajasthan,2017,75248461.0,628020.0,West,True
+Rajasthan,2018,76256452.0,642929.0,West,True
+Rajasthan,2019,77264559.0,679564.0,West,True
+Rajasthan,2020,78273496.0,660118.0,West,False
+Rajasthan,2021,79281418.0,697081.0,West,False
+Rajasthan,2022,80153513.0,734044.0,West,False
+Rajasthan,2023,81025426.0,771007.0,West,False
+Rajasthan,2024,81897401.0,769105.625,West,False
+Sikkim,2006,575898.0,1514.0,North-East,False
+Sikkim,2007,582830.0,1626.0,North-East,False
+Sikkim,2008,589721.0,1756.0,North-East,False
+Sikkim,2009,596572.0,1995.0,North-East,False
+Sikkim,2010,603381.0,2234.0,North-East,False
+Sikkim,2011,610577.0,11165.0,North-East,True
+Sikkim,2012,616544.0,11421.0,North-East,True
+Sikkim,2013,623514.0,12114.0,North-East,True
+Sikkim,2014,630475.0,13071.0,North-East,True
+Sikkim,2015,636424.0,14370.0,North-East,True
+Sikkim,2016,643390.0,15397.0,North-East,True
+Sikkim,2017,649343.0,17673.0,North-East,True
+Sikkim,2018,656307.0,18625.0,North-East,True
+Sikkim,2019,663256.0,19700.0,North-East,True
+Sikkim,2020,669215.0,20434.0,North-East,False
+Sikkim,2021,676155.0,21699.0,North-East,False
+Sikkim,2022,682119.0,22964.0,North-East,False
+Sikkim,2023,688071.0,24229.0,North-East,False
+Sikkim,2024,694024.0,24169.505859375,North-East,False
+Tamil Nadu,2006,68969174.0,209302.0,South,False
+Tamil Nadu,2007,69652087.0,218538.0,South,False
+Tamil Nadu,2008,70307771.0,228479.0,South,False
+Tamil Nadu,2009,70936225.0,241122.0,South,False
+Tamil Nadu,2010,71537449.0,250711.0,South,False
+Tamil Nadu,2011,72147030.0,751486.0,South,True
+Tamil Nadu,2012,72645145.0,791824.0,South,True
+Tamil Nadu,2013,73141985.0,851976.0,South,True
+Tamil Nadu,2014,73640080.0,893915.0,South,True
+Tamil Nadu,2015,74137073.0,967562.0,South,True
+Tamil Nadu,2016,74635126.0,1036762.0,South,True
+Tamil Nadu,2017,74989099.0,1125793.0,South,True
+Tamil Nadu,2018,75342082.0,1204667.0,South,True
+Tamil Nadu,2019,75695060.0,1278559.0,South,True
+Tamil Nadu,2020,76049061.0,1296659.0,South,False
+Tamil Nadu,2021,76402158.0,1364176.0,South,False
+Tamil Nadu,2022,76631155.0,1431694.0,South,False
+Tamil Nadu,2023,76860096.0,1499211.0,South,False
+Tamil Nadu,2024,77089106.0,1495971.0,South,False
+Telangana,2006,33222338.0,360503.125,South,False
+Telangana,2007,33583943.0,360503.125,South,False
+Telangana,2008,33935373.0,360503.125,South,False
+Telangana,2009,34276628.0,360503.125,South,False
+Telangana,2010,34607709.0,360503.125,South,False
+Telangana,2011,34953587.0,359434.0,South,True
+Telangana,2012,35239570.0,370113.0,South,True
+Telangana,2014,35812161.0,416332.0,South,True
+Telangana,2015,36098814.0,464542.0,South,True
+Telangana,2016,36385522.0,507946.0,South,True
+Telangana,2017,36632112.0,557410.0,South,True
+Telangana,2018,36879672.0,608401.0,South,True
+Telangana,2019,37127114.0,638682.0,South,True
+Telangana,2020,37374506.0,616369.0,South,False
+Telangana,2021,37620985.0,684627.0,South,False
+Telangana,2022,37797405.0,719483.0,South,False
+Telangana,2023,37974754.0,754339.0,South,False
+Telangana,2024,38151079.0,752994.5,South,False
+Tripura,2006,3466926.0,8019.0,North-East,False
+Tripura,2007,3508598.0,8350.0,North-East,False
+Tripura,2008,3550063.0,8019.0,North-East,False
+Tripura,2009,3591321.0,8683.0,North-East,False
+Tripura,2010,3632371.0,9343.0,North-East,False
+Tripura,2011,3673917.0,19208.0,North-East,True
+Tripura,2012,3713934.0,20873.0,North-East,True
+Tripura,2013,3753973.0,22819.0,North-East,True
+Tripura,2014,3793998.0,26965.0,North-East,True
+Tripura,2015,3834018.0,26787.0,North-East,True
+Tripura,2016,3874064.0,30538.0,North-East,True
+Tripura,2017,3914072.0,33093.0,North-East,True
+Tripura,2018,3953109.0,36754.0,North-East,True
+Tripura,2019,3992143.0,40207.0,North-East,True
+Tripura,2020,4032182.0,41799.0,North-East,False
+Tripura,2021,4071208.0,45290.0,North-East,False
+Tripura,2022,4109233.0,48781.0,North-East,False
+Tripura,2023,4147268.0,52272.0,North-East,False
+Tripura,2024,4184280.0,52136.265625,North-East,False
+Uttar Pradesh,2006,181163855.0,239070.0,North,False
+Uttar Pradesh,2007,185011288.0,258067.0,North,False
+Uttar Pradesh,2008,188779396.0,276677.0,North,False
+Uttar Pradesh,2009,192468179.0,294836.0,North,False
+Uttar Pradesh,2010,196077639.0,313640.0,North,False
+Uttar Pradesh,2011,199812341.0,724050.0,North,True
+Uttar Pradesh,2012,203067243.0,758205.0,North,True
+Uttar Pradesh,2013,206322112.0,802070.0,North,True
+Uttar Pradesh,2014,209577239.0,834432.0,North,True
+Uttar Pradesh,2015,212832274.0,908241.0,North,True
+Uttar Pradesh,2016,216087225.0,1011500.0,North,True
+Uttar Pradesh,2017,219051592.0,1056399.0,North,True
+Uttar Pradesh,2018,222015356.0,1101609.0,North,True
+Uttar Pradesh,2019,224979377.0,1137626.0,North,True
+Uttar Pradesh,2020,227943310.0,1089612.0,North,False
+Uttar Pradesh,2021,230907481.0,1109878.0,North,False
+Uttar Pradesh,2022,233297127.0,1130145.0,North,False
+Uttar Pradesh,2023,235687425.0,1150411.0,North,False
+Uttar Pradesh,2024,238078417.0,1147555.0,North,False
+Uttarakhand,2006,9376091.0,23103.0,North,False
+Uttarakhand,2007,9520148.0,25482.0,North,False
+Uttarakhand,2008,9662834.0,26968.0,North,False
+Uttarakhand,2009,9804149.0,29507.0,North,False
+Uttarakhand,2010,9944095.0,31440.0,North,False
+Uttarakhand,2011,10086292.0,115328.0,North,True
+Uttarakhand,2012,10219953.0,123710.0,North,True
+Uttarakhand,2013,10354275.0,134182.0,North,True
+Uttarakhand,2014,10487268.0,141278.0,North,True
+Uttarakhand,2015,10621186.0,152699.0,North,True
+Uttarakhand,2016,10755289.0,167703.0,North,True
+Uttarakhand,2017,10884213.0,180956.0,North,True
+Uttarakhand,2018,11013269.0,186048.0,North,True
+Uttarakhand,2019,11141303.0,188236.0,North,True
+Uttarakhand,2020,11270390.0,175910.0,North,False
+Uttarakhand,2021,11399520.0,181984.0,North,False
+Uttarakhand,2022,11518343.0,188059.0,North,False
+Uttarakhand,2023,11637436.0,194134.0,North,False
+Uttarakhand,2024,11755469.0,193652.671875,North,False
+West Bengal,2006,86752089.0,204948.0,East,False
+West Bengal,2007,87706502.0,222683.0,East,False
+West Bengal,2008,88632405.0,236806.0,East,False
+West Bengal,2009,89529797.0,253408.0,East,False
+West Bengal,2010,90398680.0,269266.0,East,False
+West Bengal,2011,91276115.0,520485.0,East,True
+West Bengal,2012,92036859.0,542191.0,East,True
+West Bengal,2013,92796928.0,558497.0,East,True
+West Bengal,2014,93557966.0,574364.0,East,True
+West Bengal,2015,94317975.0,609545.0,East,True
+West Bengal,2016,95079005.0,653416.0,East,True
+West Bengal,2017,95688123.0,694980.0,East,True
+West Bengal,2018,96297082.0,739082.0,East,True
+West Bengal,2019,96906035.0,784424.0,East,True
+West Bengal,2020,97516138.0,792720.0,East,False
+West Bengal,2021,98124996.0,812527.0,East,False
+West Bengal,2022,98604137.0,832333.0,East,False
+West Bengal,2023,99084008.0,852139.0,East,False
+West Bengal,2024,99563100.0,850812.125,East,False

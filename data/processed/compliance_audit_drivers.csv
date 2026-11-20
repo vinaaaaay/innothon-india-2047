@@ -1,0 +1,6 @@
+table,source,kept,dropped,rows,columns
+owid_panel,Our World in Data energy dataset,"electricity_generation (TWh), population",all consumption / demand / primary-energy columns,,
+official_csv,renewable-india-dataset (organisers' pointer),"State, Year, Population, GSDP",Installed - Solar / Wind / Small Hydro / Bio-Mass / Waste to Energy (MW),,
+drivers_national,,,,66.0,"year, population, urban_share, gdp_pc_ppp, gdp_growth_pct, generation_twh, generation_pc_kwh, is_projection"
+panel_countries,,,,5565.0,"country, year, iso, population, generation_twh, generation_pc_kwh, gdp_pc_ppp, urban_share"
+drivers_state,,,,635.0,"state, year, population, gsdp_crore, zone, gsdp_reliable"

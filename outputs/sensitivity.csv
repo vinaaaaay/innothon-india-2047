@@ -1,0 +1,17 @@
+lens,choice,twh_2047,note,vs_default_pct
+ladder,"default (10-year windows, growth >= 22 %, pop > 5m)",5326.182230615138,80 countries,0.0
+ladder,5-year windows,4015.9460731475847,53 countries,-24.59991229620827
+ladder,15-year windows,5964.947838318544,84 countries,11.992935653454605
+ladder,income growth >= 11 % per window,5972.053845792589,92 countries,12.12635218271263
+ladder,income growth >= 35 % per window,4807.676371390785,55 countries,-9.735037908465804
+ladder,population > 1m,4750.67463299964,110 countries,-10.805255485016152
+ladder,population > 20m,7505.282598527147,37 countries,40.91298933383165
+ladder,15 large emerging economies only,8148.6712066003065,14 countries,52.99272262524879
+panel,"default (pop > 1m, World Bank urban path: 42 % in 2047)",4233.298721526862,152 countries,0.0
+panel,urban share reaches 50 % in 2047,5200.162357925195,,22.839485233624266
+panel,no further urbanisation (isolates the urban effect),3562.1002478156315,,-15.85521168865549
+panel,population > 5m,4514.06672822557,121 countries,6.632369345233458
+panel,country-years between $3k and $60k only,4158.4453229733,136 countries,-1.7682049738876993
+india,default (1990-2025),6105.685019928878,elasticity 0.84,0.0
+india,fitted on 2000-2025 only,6306.805464529199,elasticity 0.87,3.2939865706119065
+india,fitted on 2010-2025 only,6103.671019813996,elasticity 0.84,-0.03298565367044759

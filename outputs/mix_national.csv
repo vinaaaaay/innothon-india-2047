@@ -1,0 +1,201 @@
+strategy,year,source,twh
+Balanced,2025,Bioenergy,14.14836
+Balanced,2025,Coal,1279.69008
+Balanced,2025,Gas,25.53409
+Balanced,2025,Hydro,176.34087
+Balanced,2025,Nuclear,54.718219999999995
+Balanced,2025,Other,3.26016
+Balanced,2025,Solar,159.94542
+Balanced,2025,Wind,104.74497
+Balanced,2030,Bioenergy,14.14836
+Balanced,2030,Coal,1352.455817453586
+Balanced,2030,Gas,12.767045
+Balanced,2030,Hydro,213.8955317352422
+Balanced,2030,Nuclear,72.79821999999999
+Balanced,2030,Other,3.26016
+Balanced,2030,Solar,476.15927700979216
+Balanced,2030,Wind,238.831117983744
+Balanced,2035,Bioenergy,14.14836
+Balanced,2035,Coal,1319.148006448702
+Balanced,2035,Gas,12.767045
+Balanced,2035,Hydro,226.58301177368557
+Balanced,2035,Nuclear,90.87822
+Balanced,2035,Other,3.26016
+Balanced,2035,Solar,899.3247484518452
+Balanced,2035,Wind,418.268630817449
+Balanced,2040,Bioenergy,14.14836
+Balanced,2040,Coal,1226.8767556858688
+Balanced,2040,Gas,18.147539844088246
+Balanced,2040,Hydro,232.86536468552802
+Balanced,2040,Nuclear,108.95822000000001
+Balanced,2040,Other,3.26016
+Balanced,2040,Solar,1465.6156058927631
+Balanced,2040,Wind,539.9342380138459
+Balanced,2047,Bioenergy,14.14836
+Balanced,2047,Coal,1109.1461622966578
+Balanced,2047,Gas,78.15153984408823
+Balanced,2047,Hydro,308.563364685528
+Balanced,2047,Nuclear,219.49576930208715
+Balanced,2047,Other,3.26016
+Balanced,2047,Solar,2137.411808596041
+Balanced,2047,Wind,567.7787823755584
+"Balanced, high need (P90)",2025,Bioenergy,14.14836
+"Balanced, high need (P90)",2025,Coal,1279.69008
+"Balanced, high need (P90)",2025,Gas,25.53409
+"Balanced, high need (P90)",2025,Hydro,176.34087
+"Balanced, high need (P90)",2025,Nuclear,54.718219999999995
+"Balanced, high need (P90)",2025,Other,3.26016
+"Balanced, high need (P90)",2025,Solar,159.94542
+"Balanced, high need (P90)",2025,Wind,104.74497
+"Balanced, high need (P90)",2030,Bioenergy,14.14836
+"Balanced, high need (P90)",2030,Coal,1606.8966776851526
+"Balanced, high need (P90)",2030,Gas,12.767045
+"Balanced, high need (P90)",2030,Hydro,214.62789333333333
+"Balanced, high need (P90)",2030,Nuclear,77.6289393970688
+"Balanced, high need (P90)",2030,Other,3.26016
+"Balanced, high need (P90)",2030,Solar,476.1592770097921
+"Balanced, high need (P90)",2030,Wind,238.831117983744
+"Balanced, high need (P90)",2035,Bioenergy,14.14836
+"Balanced, high need (P90)",2035,Coal,1785.5228643840892
+"Balanced, high need (P90)",2035,Gas,12.767045
+"Balanced, high need (P90)",2035,Hydro,268.6978933333333
+"Balanced, high need (P90)",2035,Nuclear,111.29230266686838
+"Balanced, high need (P90)",2035,Other,3.26016
+"Balanced, high need (P90)",2035,Solar,899.3247484518452
+"Balanced, high need (P90)",2035,Wind,418.268630817449
+"Balanced, high need (P90)",2040,Bioenergy,14.14836
+"Balanced, high need (P90)",2040,Coal,1956.1516117210383
+"Balanced, high need (P90)",2040,Gas,55.627044999999995
+"Balanced, high need (P90)",2040,Hydro,322.76789333333335
+"Balanced, high need (P90)",2040,Nuclear,160.7548274787028
+"Balanced, high need (P90)",2040,Other,3.26016
+"Balanced, high need (P90)",2040,Solar,1465.6156058927631
+"Balanced, high need (P90)",2040,Wind,460.1586248263772
+"Balanced, high need (P90)",2047,Bioenergy,14.14836
+"Balanced, high need (P90)",2047,Coal,2403.2263183958758
+"Balanced, high need (P90)",2047,Gas,115.63104499999999
+"Balanced, high need (P90)",2047,Hydro,398.4658933333333
+"Balanced, high need (P90)",2047,Nuclear,271.29237678078994
+"Balanced, high need (P90)",2047,Other,3.26016
+"Balanced, high need (P90)",2047,Solar,2137.411808596041
+"Balanced, high need (P90)",2047,Wind,567.7787823755584
+"Balanced, low need (P10)",2025,Bioenergy,14.14836
+"Balanced, low need (P10)",2025,Coal,1279.69008
+"Balanced, low need (P10)",2025,Gas,25.53409
+"Balanced, low need (P10)",2025,Hydro,176.34087
+"Balanced, low need (P10)",2025,Nuclear,54.718219999999995
+"Balanced, low need (P10)",2025,Other,3.26016
+"Balanced, low need (P10)",2025,Solar,159.94542
+"Balanced, low need (P10)",2025,Wind,104.74497
+"Balanced, low need (P10)",2030,Bioenergy,14.14836
+"Balanced, low need (P10)",2030,Coal,1259.080668460244
+"Balanced, low need (P10)",2030,Gas,12.767045
+"Balanced, low need (P10)",2030,Hydro,160.55789333333334
+"Balanced, low need (P10)",2030,Nuclear,72.79821999999999
+"Balanced, low need (P10)",2030,Other,3.26016
+"Balanced, low need (P10)",2030,Solar,476.15927700979216
+"Balanced, low need (P10)",2030,Wind,238.831117983744
+"Balanced, low need (P10)",2035,Bioenergy,14.14836
+"Balanced, low need (P10)",2035,Coal,1169.4707445931303
+"Balanced, low need (P10)",2035,Gas,12.767045
+"Balanced, low need (P10)",2035,Hydro,160.55789333333334
+"Balanced, low need (P10)",2035,Nuclear,90.87822
+"Balanced, low need (P10)",2035,Other,3.26016
+"Balanced, low need (P10)",2035,Solar,899.3247484518452
+"Balanced, low need (P10)",2035,Wind,343.421861389162
+"Balanced, low need (P10)",2040,Bioenergy,14.14836
+"Balanced, low need (P10)",2040,Coal,1050.179581654629
+"Balanced, low need (P10)",2040,Gas,12.767045
+"Balanced, low need (P10)",2040,Hydro,160.55789333333334
+"Balanced, low need (P10)",2040,Nuclear,108.95822000000001
+"Balanced, low need (P10)",2040,Other,3.26016
+"Balanced, low need (P10)",2040,Solar,1465.615605892763
+"Balanced, low need (P10)",2040,Wind,343.421861389162
+"Balanced, low need (P10)",2047,Bioenergy,14.14836
+"Balanced, low need (P10)",2047,Coal,965.2051510493263
+"Balanced, low need (P10)",2047,Gas,12.767045
+"Balanced, low need (P10)",2047,Hydro,160.55789333333334
+"Balanced, low need (P10)",2047,Nuclear,134.27022
+"Balanced, low need (P10)",2047,Other,3.26016
+"Balanced, low need (P10)",2047,Solar,2137.411808596041
+"Balanced, low need (P10)",2047,Wind,343.421861389162
+Deep decarbonisation,2025,Bioenergy,14.14836
+Deep decarbonisation,2025,Coal,1279.69008
+Deep decarbonisation,2025,Gas,25.53409
+Deep decarbonisation,2025,Hydro,176.34087
+Deep decarbonisation,2025,Nuclear,54.718219999999995
+Deep decarbonisation,2025,Other,3.26016
+Deep decarbonisation,2025,Solar,159.94542
+Deep decarbonisation,2025,Wind,104.74497
+Deep decarbonisation,2030,Bioenergy,14.14836
+Deep decarbonisation,2030,Coal,1317.961640250444
+Deep decarbonisation,2030,Gas,41.20353978442165
+Deep decarbonisation,2030,Hydro,214.62789333333333
+Deep decarbonisation,2030,Nuclear,77.6289393970688
+Deep decarbonisation,2030,Other,3.26016
+Deep decarbonisation,2030,Solar,476.15927700979216
+Deep decarbonisation,2030,Wind,238.831117983744
+Deep decarbonisation,2035,Bioenergy,14.14836
+Deep decarbonisation,2035,Coal,1204.6352072688276
+Deep decarbonisation,2035,Gas,63.04930555719907
+Deep decarbonisation,2035,Hydro,268.6978933333333
+Deep decarbonisation,2035,Nuclear,111.29230266686838
+Deep decarbonisation,2035,Other,3.26016
+Deep decarbonisation,2035,Solar,899.3247484518452
+Deep decarbonisation,2035,Wind,418.268630817449
+Deep decarbonisation,2040,Bioenergy,14.14836
+Deep decarbonisation,2040,Coal,967.0499835678256
+Deep decarbonisation,2040,Gas,105.90930555719908
+Deep decarbonisation,2040,Hydro,322.7678933333333
+Deep decarbonisation,2040,Nuclear,160.7548274787028
+Deep decarbonisation,2040,Other,3.26016
+Deep decarbonisation,2040,Solar,1465.6156058927631
+Deep decarbonisation,2040,Wind,567.7787823755584
+Deep decarbonisation,2047,Bioenergy,14.14836
+Deep decarbonisation,2047,Coal,921.0886919468445
+Deep decarbonisation,2047,Gas,165.91330555719907
+Deep decarbonisation,2047,Hydro,354.44806629261615
+Deep decarbonisation,2047,Nuclear,271.29237678078994
+Deep decarbonisation,2047,Other,3.26016
+Deep decarbonisation,2047,Solar,2137.411808596041
+Deep decarbonisation,2047,Wind,567.7787823755584
+Least cost,2025,Bioenergy,14.14836
+Least cost,2025,Coal,1279.69008
+Least cost,2025,Gas,25.53409
+Least cost,2025,Hydro,176.34087
+Least cost,2025,Nuclear,54.718219999999995
+Least cost,2025,Other,3.26016
+Least cost,2025,Solar,159.94542
+Least cost,2025,Wind,104.74497
+Least cost,2030,Bioenergy,14.14836
+Least cost,2030,Coal,1357.28347
+Least cost,2030,Gas,12.767045
+Least cost,2030,Hydro,209.11137313495368
+Least cost,2030,Nuclear,72.79821999999999
+Least cost,2030,Other,3.26016
+Least cost,2030,Solar,476.15927700979216
+Least cost,2030,Wind,238.831117983744
+Least cost,2035,Bioenergy,14.14836
+Least cost,2035,Coal,1357.28347
+Least cost,2035,Gas,12.767045
+Least cost,2035,Hydro,209.11137313495368
+Least cost,2035,Nuclear,90.87822
+Least cost,2035,Other,3.26016
+Least cost,2035,Solar,899.3247484518452
+Least cost,2035,Wind,397.44909605349807
+Least cost,2040,Bioenergy,14.14836
+Least cost,2040,Coal,1264.0705942432007
+Least cost,2040,Gas,12.767045
+Least cost,2040,Hydro,235.2675971772027
+Least cost,2040,Nuclear,108.95822000000001
+Least cost,2040,Other,3.26016
+Least cost,2040,Solar,1465.615605892763
+Least cost,2040,Wind,505.101212014158
+Least cost,2047,Bioenergy,14.14836
+Least cost,2047,Coal,1339.556013457781
+Least cost,2047,Gas,12.767045
+Least cost,2047,Hydro,272.4909398445548
+Least cost,2047,Nuclear,134.27022
+Least cost,2047,Other,3.26016
+Least cost,2047,Solar,2137.411808596041
+Least cost,2047,Wind,523.9989654489524
