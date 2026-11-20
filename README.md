@@ -3,6 +3,8 @@
 Generation-only pipeline (no installed capacity, no consumption). Data sources and
 what is allowed from each are in [data/README.md](data/README.md).
 
+**Live dashboard: <https://vinaaaaay.github.io/innothon-india-2047/>**
+
 ## Run
 
 ```bash
@@ -23,13 +25,17 @@ reuses the runs cached in `outputs/grid_runs.json` (a few seconds).
 
 ## Dashboard
 
-Open `dashboard/index.html` in a browser (it works straight from disk), or serve the folder:
+The dashboard is live at **<https://vinaaaaay.github.io/innothon-india-2047/>**. Pushing a change under
+`dashboard/` redeploys it (`.github/workflows/pages.yml`); `gh workflow run pages.yml` forces a redeploy.
+
+To run it locally instead, open `dashboard/index.html` in a browser (it works straight from disk), or serve the folder:
 
 ```bash
 .venv/bin/python -m http.server 8765 --directory dashboard
 ```
 
-The folder is a static site with no external dependencies, so it can be hosted on any static host for the live demo.
+The folder is a static site with no external dependencies, so it can be hosted on any static host. Keep the local
+server in reserve for the live demo: the first page load pulls about 8 MB of `data.js`.
 
 **Terminal (`index.html`, `term.css`, `term.js`, `provenance.js`)** is the main screen, built after the midpoint review:
 one dark, minimal screen with an interactive map of India at the centre (six zones or 36 states; colour by growth,
@@ -97,6 +103,7 @@ is met by coal. With "Everything at once", coal in 2047 is about 2,180 TWh at 3%
 | `dashboard/` | The interactive dashboard (static site) |
 | `data/processed/` | Clean tables (generation, drivers, seasonal shapes, resources) |
 | `outputs/` | Forecast and mix CSVs, `model_parameters.json`, sensitivities, `figures/` |
+| `.github/workflows/pages.yml` | Publishes `dashboard/` to GitHub Pages on every push that touches it |
 
 ## Method in brief
 
