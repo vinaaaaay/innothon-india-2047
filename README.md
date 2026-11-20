@@ -54,8 +54,8 @@ The dashboard is the terminal only. It uses `lib.js` (helpers), `model.js` (fore
   requirement is interpolated between the two nearest solved requirement levels.
 
 The earlier tabbed dashboard (forecast, themes and signposts with signpost entry and theme sliders, mix, evidence,
-method) was retired on 2026-11-19 and is kept in `backups/analyst_view_2026-11-19/` (put `classic.html`, `app.js`,
-`style.css` and `classic-term.css` back into `dashboard/` to use it).
+method) was retired on 2026-11-19. Its files were removed from the working tree on 2026-11-20 and live in git history:
+`git checkout 1b067a2 -- backups/` brings back both snapshots.
 
 ### Themes and signposts
 
