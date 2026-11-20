@@ -505,7 +505,15 @@
       if (t.formula) body.appendChild(el("div", { class: "tsec" }, el("p", { class: "cap", text: "How it is calculated" }), el("div", { class: "formula", text: t.formula })));
       if (t.inputs && t.inputs.length) {
         const g = el("div", { class: "inputs" });
-        t.inputs.forEach(i => g.append(el("span", { text: i[0] }), el("b", null, i[2] ? N(i[1], i[2], i[3]) : i[1])));
+        t.inputs.forEach(i => {
+          if (i[4] && i[4].expand) {
+            const b = el("button", { type: "button", class: "n more", text: i[0].trim(), title: "Show the rest" });
+            b.addEventListener("click", e => { e.stopPropagation(); top.args.all = true; this.render(); });
+            g.append(el("span", null, b), el("b", null, i[1]));
+          } else {
+            g.append(el("span", { text: i[0] }), el("b", null, i[2] ? N(i[1], i[2], i[3]) : i[1]));
+          }
+        });
         body.appendChild(el("div", { class: "tsec" }, el("p", { class: "cap", text: "Inputs · click to trace further" }), g));
       }
       if (t.data && t.data.length) {
@@ -646,8 +654,9 @@
     "req.zone"(a) {
       const z = a.name, yi = a.yi == null ? Y47 : a.yi, v = zoneReq(z, yi), st = zoneStates(z).filter(s => stateReq(s, yi) != null).sort((x, y) => stateReq(y, yi) - stateReq(x, yi));
       const ins = [["India's requirement " + yname(yi), f0(natReq(yi)) + " TWh", "req.nat"], [`${z} share of India ${yname(yi)}`, pct(shareOf(z, yi), 1)], [`${z} share in 2025`, pct(shareOf(z, 0), 1)]];
-      st.slice(0, 4).forEach(s => ins.push([`  ${s}`, f0(stateReq(s, yi)) + " TWh", "req.state", { level: "state", name: s, yi }]));
-      if (st.length > 4) ins.push([`  + ${st.length - 4} more states`, f0(st.slice(4).reduce((a2, s) => a2 + stateReq(s, yi), 0)) + " TWh"]);
+      const shown = a.all ? st.length : 4;
+      st.slice(0, shown).forEach(s => ins.push([`  ${s}`, f0(stateReq(s, yi)) + " TWh", "req.state", { level: "state", name: s, yi }]));
+      if (st.length > shown) ins.push([`  + ${st.length - shown} more states`, f0(st.slice(shown).reduce((a2, s) => a2 + stateReq(s, yi), 0)) + " TWh", null, null, { expand: true }]);
       if (themed.active && yi === Y47) ins.push(["Theme effect landing in this zone", signed(themeZoneDelta(z)) + " TWh", "req.nat"]);
       return { title: `${z} zone · requirement ${yname(yi)}`, value: f0(v), unit: "TWh",
         what: "The national forecast shared among states, then added up for the zone. Poorer, faster-growing states climb the development ladder faster, so their share rises.",
@@ -776,7 +785,6 @@
     renderLeft();
     renderMap();
     renderRight();
-    document.getElementById("meta").textContent = `Built ${D.generated} · ${settingsText()}`;
   }
   // keyboard: arrows move through zones when nothing else has focus
   document.addEventListener("keydown", e => {

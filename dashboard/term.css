@@ -27,7 +27,7 @@ html, body { margin: 0; height: 100%; background: var(--bg); color: var(--ink); 
 button { font: inherit; color: inherit; background: none; border: 0; padding: 0; cursor: pointer; }
 :focus-visible { outline: 2px solid var(--amber); outline-offset: 1px; }
 
-.app { display: grid; grid-template-rows: auto auto 1fr auto; grid-template-columns: minmax(0, 1fr); height: 100vh; min-height: 640px; }
+.app { display: grid; grid-template-rows: auto auto 1fr; grid-template-columns: minmax(0, 1fr); height: 100vh; min-height: 640px; }
 .app > * { min-width: 0; }
 
 /* ---- top bar ---------------------------------------------------------------- */
@@ -43,8 +43,6 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .chip .k { color: var(--muted); }
 .chip.on { border-color: var(--amber); color: var(--amber); }
 .badge { font-family: var(--mono); font-size: 11px; color: var(--up); border: 1px solid #1f5a43; padding: 3px 7px; border-radius: 3px; white-space: nowrap; }
-.link { font-family: var(--mono); font-size: 11.5px; color: var(--ink2); text-decoration: none; white-space: nowrap; }
-.link:hover { color: var(--amber); }
 
 /* dropdown menus for chips */
 .menu { position: fixed; z-index: 60; min-width: 220px; background: var(--panel2); border: 1px solid var(--line2); border-radius: 4px; padding: 6px;
@@ -123,7 +121,6 @@ table.wl tr.row.sel td:first-child { box-shadow: inset 3px 0 0 var(--amber); }
 .scale .steps i { width: 22px; height: 8px; display: block; }
 .lg { display: inline-flex; align-items: center; gap: 5px; margin-right: 8px; }
 .lg i { width: 9px; height: 9px; border-radius: 1px; display: inline-block; }
-.maptip { position: absolute; left: 14px; top: 10px; font-family: var(--mono); font-size: 11px; color: var(--muted); pointer-events: none; }
 
 /* detail */
 .dh { padding: 12px 12px 10px; border-bottom: 1px solid var(--line); }
@@ -169,16 +166,6 @@ table.wl tr.row.sel td:first-child { box-shadow: inset 3px 0 0 var(--amber); }
 .mixh .bar2 i { display: block; height: 100%; }
 .lgrow { display: flex; flex-wrap: wrap; gap: 4px 10px; margin-top: 8px; font-family: var(--mono); font-size: 10.5px; color: var(--ink2); }
 
-/* ---- function bar ------------------------------------------------------------ */
-.fbar { display: flex; align-items: center; gap: 2px; height: 28px; border-top: 1px solid var(--line); background: #000; padding: 0 6px; font-family: var(--mono); font-size: 11px; }
-.fbar a, .fbar button { color: var(--ink2); text-decoration: none; padding: 4px 10px; border-radius: 2px; white-space: nowrap; }
-.fbar a b, .fbar button b { color: #000; background: var(--amber); padding: 0 4px; margin-right: 6px; border-radius: 2px; font-weight: 700; }
-.fbar a:hover, .fbar button:hover { color: var(--ink); background: #141b25; }
-.fbar .sp { flex: 1; }
-.fbar { overflow: hidden; }
-.fbar .meta { color: var(--muted); padding: 0 8px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0; flex-shrink: 1; }
-.fbar .meta:first-of-type { flex-shrink: 0; }
-
 /* ---- trace drawer ------------------------------------------------------------ */
 .scrim { position: fixed; inset: 0; background: rgba(0, 0, 0, 0.45); z-index: 70; display: none; }
 .scrim.on { display: block; }
@@ -205,6 +192,7 @@ table.wl tr.row.sel td:first-child { box-shadow: inset 3px 0 0 var(--amber); }
 .inputs > :nth-last-child(-n+2) { border-bottom: 0; }
 .inputs span { color: var(--ink2); }
 .inputs b { font-weight: 500; text-align: right; }
+.inputs .more { font-family: var(--mono); font-size: 12px; text-align: left; }
 .ds { border: 1px solid var(--line); border-radius: 3px; padding: 9px 11px; margin-top: 6px; font-size: 12px; line-height: 1.5; }
 .ds .t { font-weight: 600; }
 .ds .m { color: var(--ink2); }
